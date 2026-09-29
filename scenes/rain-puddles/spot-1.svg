@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <g id="fill">
+    <path d="M40 176 C40 166 70 160 110 160 C150 160 180 166 180 176 C180 184 150 188 110 188 C70 188 40 184 40 176 Z" data-color="accentCool" data-material="felt"/>
+    <path d="M62 44 L118 44 L120 120 C130 124 154 130 156 152 C158 168 146 174 130 174 L64 174 C56 174 52 168 54 160 L58 120 Z" data-color="accentWarm" data-material="felt"/>
+    <path d="M54 160 L156 160 C158 168 148 174 130 174 L64 174 C56 174 52 168 54 160 Z" data-color="ink" data-material="felt"/>
+    <path d="M58 40 L122 40 L122 54 L58 54 Z" data-color="pencil" data-material="felt"/>
+    <path d="M60 46 C60 34 120 34 120 46 C120 56 60 56 60 46 Z" data-color="accentCool" data-material="cellophane"/>
+    <path d="M72 36 C68 30 62 26 60 20 C59 16 62 14 65 16 C69 20 72 28 72 36 Z" data-color="accentCool" data-material="cellophane"/>
+    <path d="M108 32 C110 26 116 22 118 16 C119 12 122 12 122 16 C122 22 116 28 108 32 Z" data-color="accentCool" data-material="cellophane"/>
+    <path d="M136 42 C138 46 140 48 140 51 C140 53.5 138 54.5 136 54.5 C134 54.5 132 53.5 132 51 C132 48 134 46 136 42 Z" data-color="accentCool" data-material="cellophane"/>
+    <path d="M44 62 C46 66 48 68 48 71 C48 73.5 46 74.5 44 74.5 C42 74.5 40 73.5 40 71 C40 68 42 66 44 62 Z" data-color="accentCool" data-material="cellophane"/>
+  </g>
+  <g id="line">
+    <path d="M66 60 L66 150" data-color="ink" data-w="0.8" data-stitch="running"/>
+  </g>
+  <g id="anchors">
+    <path data-anchor="boot" d="M90 100"/>
+    <path data-anchor="water" d="M90 44"/>
+  </g>
+</svg>

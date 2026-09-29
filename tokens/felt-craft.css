@@ -1,0 +1,19 @@
+/* crafterAssetLibrary felt-craft tokens (CC0). Fonts: Caveat, Kalam, Jost (all SIL OFL, Google Fonts). */
+:root {
+  --felt-paper: #F3EBDB;
+  --felt-text: #2B2622;
+  --felt-ink: #4A3B30;
+  --felt-ink-soft: #8C7A68;
+  --felt-pencil: #C4B8A4;
+  --felt-title: #3A2F28;
+  --felt-title-shadow: #E8C36A;
+  --felt-accent-warm: #D9534A;
+  --felt-accent-cool: #3F6E99;
+  --felt-wash-warm: #F2C94C;
+  --felt-wash-cool: #9FB4C7;
+  --felt-wash-green: #8DAF6E;
+  --felt-highlight: #F6E27F;
+  --felt-font-title: "Caveat", cursive;
+  --felt-font-hand: "Kalam", cursive;
+  --felt-font-print: "Jost", sans-serif;
+}

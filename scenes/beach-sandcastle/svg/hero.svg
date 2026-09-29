@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <g id="fill">
+    <path d="M34 26 C90 20 200 22 266 25 C270 50 269 78 268 98 L32 98 C29 76 30 50 34 26 Z" fill="#9FB4C7" stroke="#8c9eaf" stroke-width="0.6"/>
+    <path d="M22 34 C22 22 32 14 42 14 C52 14 60 22 60 34 C60 44 52 52 42 52 C32 52 22 44 22 34 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M222 38 C222 30 232 26 238 30 C242 18 258 18 262 28 C270 24 282 30 280 40 L222 40 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M10 90 C60 85 110 91 160 87 C210 83 255 90 290 86 L290 124 L10 124 Z" fill="#3F6E99" stroke="#376187" stroke-width="0.6"/>
+    <path d="M40 100 L43 104 L40 108 L37 104 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6" fill-opacity="0.6"/>
+    <path d="M96 96 L99 100 L96 104 L93 100 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6" fill-opacity="0.6"/>
+    <path d="M168 102 L171 106 L168 110 L165 106 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6" fill-opacity="0.6"/>
+    <path d="M232 98 L235 102 L232 106 L229 102 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6" fill-opacity="0.6"/>
+    <path d="M272 104 L275 108 L272 112 L269 108 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6" fill-opacity="0.6"/>
+    <path d="M10 118 C30 110 50 124 72 116 C94 108 114 122 136 114 C158 106 178 120 200 112 C222 104 242 118 264 110 C278 106 286 110 290 112 L290 128 L10 128 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M22 124 L278 124 C279 146 278 162 276 180 C200 184 100 183 24 181 C21 162 21 142 22 124 Z" fill="#C4B8A4" stroke="#aca290" stroke-width="0.6"/>
+    <path d="M226 126 C222 138 214 148 208 156 L216 160 C224 150 232 138 236 126 Z" fill="#3F6E99" stroke="#376187" stroke-width="0.6" fill-opacity="0.6"/>
+    <path d="M80 176 C80 164 112 156 150 156 C188 156 220 164 220 176 C220 186 188 193 150 193 C112 193 80 186 80 176 Z" fill="#3F6E99" stroke="#376187" stroke-width="0.6" fill-opacity="0.6"/>
+    <path d="M98 172 C98 165 122 161 150 161 C178 161 202 165 202 172 C202 179 178 182 150 182 C122 182 98 179 98 172 Z" fill="#C4B8A4" stroke="#aca290" stroke-width="0.6"/>
+    <path d="M106 172 L194 172 L194 134 L106 134 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M108 134 L128 134 L128 108 L108 108 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M106 108 L106 100 L111 100 L111 104 L116 104 L116 100 L121 100 L121 104 L125 104 L125 100 L130 100 L130 108 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M138 134 L162 134 L162 90 L138 90 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M136 90 L136 82 L141 82 L141 86 L147 86 L147 82 L153 82 L153 86 L159 86 L159 82 L164 82 L164 90 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M172 134 L192 134 L192 108 L172 108 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M170 108 L170 100 L175 100 L175 104 L180 104 L180 100 L185 100 L185 104 L189 104 L189 100 L194 100 L194 108 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M151 68 L168 74 L151 80 Z" fill="#D9534A" stroke="#bf4941" stroke-width="0.6"/>
+    <path d="M113 126 C113 119 123 119 123 126 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M145 112 C145 105 155 105 155 112 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M177 126 C177 119 187 119 187 126 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M143 172 L143 156 C143 149 157 149 157 156 L157 172 Z" fill="#8C7A68" stroke="#7b6b5c" stroke-width="0.6"/>
+    <path d="M262 164 L284 164 L280 188 L266 188 Z" fill="#D9534A" stroke="#bf4941" stroke-width="0.6"/>
+    <path d="M204 176 C210 170 222 172 226 178 C218 182 208 182 204 176 Z" fill="#3F6E99" stroke="#376187" stroke-width="0.6" fill-opacity="0.6"/>
+  </g>
+  <g id="line">
+    <path d="M151 90 L151 66" fill="none" stroke="#4A3B30" stroke-width="1.20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M263 164 C264 152 282 152 283 164" fill="none" stroke="#4A3B30" stroke-width="0.84" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  </svg>

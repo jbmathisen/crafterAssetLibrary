@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <g id="fill">
+    <path d="M16 116 C16 82 54 58 100 58 C146 58 184 82 184 116 C184 150 146 174 100 174 C54 174 16 150 16 116 Z" data-color="paper" data-material="cardstock"/>
+    <path d="M52 150 C44 138 54 128 64 124 C66 112 60 102 72 94 C82 86 92 92 98 82 C104 72 118 74 126 66 C136 58 152 62 150 76 C148 86 136 88 132 98 C140 104 142 114 132 118 C122 122 114 116 108 124 C102 134 94 142 84 148 C74 156 58 160 52 150 Z" data-color="washWarm" data-material="felt"/>
+    <path d="M80 110 C85 105 92 107 90 113 C87 117 80 116 80 110 Z" data-color="inkSoft" data-material="felt"/>
+    <path d="M114 84 C118 81 124 83 122 88 C119 91 113 89 114 84 Z" data-color="inkSoft" data-material="felt"/>
+    <path d="M64 138 C67 135 72 137 70 141 C68 143 64 142 64 138 Z" data-color="inkSoft" data-material="felt"/>
+    <path d="M144 134 C144 124 150 120 156 120 C162 120 166 124 166 134 C166 144 155 152 155 152 C155 152 144 144 144 134 Z" data-color="accentWarm" data-material="felt"/>
+    <path d="M149 121 L155 113 L161 121 Z" data-color="washGreen" data-material="felt"/>
+  </g>
+  <g id="line">
+    <path d="M30 116 C30 90 62 72 100 72 C138 72 170 90 170 116 C170 142 138 160 100 160 C62 160 30 142 30 116" data-color="inkSoft" data-w="0.7" data-stitch="running"/>
+  </g>
+  <g id="anchors">
+    <path data-anchor="norway" d="M100 108"/>
+  </g>
+</svg>

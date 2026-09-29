@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <g id="fill">
+    <path d="M92 120 L108 120 L110 184 L90 184 Z" data-color="ink" data-material="felt"/>
+    <path d="M100 20 C136 20 164 48 160 84 C176 100 168 132 140 136 C124 148 76 148 60 136 C32 132 24 100 40 84 C36 48 64 20 100 20 Z" data-color="washGreen" data-material="felt"/>
+  </g>
+  <g id="line">
+    <path d="M60 112 C88 124 116 124 144 112" data-color="paper" data-w="0.6" data-stitch="running"/>
+  </g>
+</svg>

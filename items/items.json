@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "style": "felt-craft",
+  "colors": "palette roles, see tokens/felt-craft.json",
+  "items": [
+    {
+      "id": "heart",
+      "file": "heart.svg",
+      "tags": [
+        "love",
+        "sticker",
+        "happy"
+      ],
+      "description": "a red felt heart with a running stitch just inside its edge",
+      "source": "source/heart.svg",
+      "svg": "svg/heart.svg",
+      "png": "png/heart.png"
+    },
+    {
+      "id": "star",
+      "file": "star.svg",
+      "tags": [
+        "sticker",
+        "night",
+        "proud",
+        "award"
+      ],
+      "description": "a yellow cardstock star",
+      "source": "source/star.svg",
+      "svg": "svg/star.svg",
+      "png": "png/star.png"
+    },
+    {
+      "id": "rainbow",
+      "file": "rainbow.svg",
+      "tags": [
+        "weather",
+        "happy",
+        "after rain",
+        "sticker"
+      ],
+      "description": "a three-band felt rainbow with a cloud at each foot",
+      "source": "source/rainbow.svg",
+      "svg": "svg/rainbow.svg",
+      "png": "png/rainbow.png"
+    },
+    {
+      "id": "butterfly",
+      "file": "butterfly.svg",
+      "tags": [
+        "garden",
+        "spring",
+        "insect",
+        "sticker"
+      ],
+      "description": "a felt butterfly: blue upper wings, pale yellow lower wings, dark body and thread antennae",
+      "source": "source/butterfly.svg",
+      "svg": "svg/butterfly.svg",
+      "png": "png/butterfly.png"
+    },
+    {
+      "id": "flower",
+      "file": "flower.svg",
+      "tags": [
+        "garden",
+        "spring",
+        "sticker",
+        "plant"
+      ],
+      "description": "a six-petal cream felt flower with a yellow centre, stem and leaf",
+      "source": "source/flower.svg",
+      "svg": "svg/flower.svg",
+      "png": "png/flower.png"
+    },
+    {
+      "id": "cloud",
+      "file": "cloud.svg",
+      "tags": [
+        "weather",
+        "sky"
+      ],
+      "description": "a soft cream felt cloud with a running-stitch seam",
+      "source": "source/cloud.svg",
+      "svg": "svg/cloud.svg",
+      "png": "png/cloud.png"
+    },
+    {
+      "id": "raindrop",
+      "file": "raindrop.svg",
+      "tags": [
+        "weather",
+        "rain",
+        "water"
+      ],
+      "description": "a cellophane raindrop that keeps falling on the page (data-motion=fall)",
+      "source": "source/raindrop.svg",
+      "svg": "svg/raindrop.svg",
+      "png": "png/raindrop.png"
+    },
+    {
+      "id": "sun",
+      "file": "sun.svg",
+      "tags": [
+        "weather",
+        "summer",
+        "beach",
+        "sky"
+      ],
+      "description": "a yellow felt sun with eight cardstock rays",
+      "source": "source/sun.svg",
+      "svg": "svg/sun.svg",
+      "png": "png/sun.png"
+    },
+    {
+      "id": "house",
+      "file": "house.svg",
+      "tags": [
+        "home",
+        "street",
+        "building"
+      ],
+      "description": "a cardstock house: stone body, red felt roof, green door, two lit windows",
+      "source": "source/house.svg",
+      "svg": "svg/house.svg",
+      "png": "png/house.png"
+    },
+    {
+      "id": "tree",
+      "file": "tree.svg",
+      "tags": [
+        "garden",
+        "park",
+        "nature",
+        "plant"
+      ],
+      "description": "a round moss-green felt tree with a dark trunk",
+      "source": "source/tree.svg",
+      "svg": "svg/tree.svg",
+      "png": "png/tree.png"
+    }
+  ]
+}

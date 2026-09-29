@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g id="fill">
+    <path d="M40 50 L25 57 L27 62 L43 55 Z" data-color="coat" data-material="felt"/>
+    <path d="M60 50 L75 57 L73 62 L57 55 Z" data-color="coat" data-material="felt"/>
+    <path d="M21 59.5 C21 57.6 22.6 56 24.5 56 C26.4 56 28 57.6 28 59.5 C28 61.4 26.4 63 24.5 63 C22.6 63 21 61.4 21 59.5 Z" data-color="skin" data-material="felt"/>
+    <path d="M72 59.5 C72 57.6 73.6 56 75.5 56 C77.4 56 79 57.6 79 59.5 C79 61.4 77.4 63 75.5 63 C73.6 63 72 61.4 72 59.5 Z" data-color="skin" data-material="felt"/>
+    <path d="M40 74 L47 74 L44 86 L36 86 Z" data-color="legs" data-material="felt"/>
+    <path d="M53 74 L60 74 L64 86 L56 86 Z" data-color="legs" data-material="felt"/>
+    <path d="M32 85 C32 83 44 83 44 85 L45 94 L30 94 Z" data-color="boot" data-material="felt"/>
+    <path d="M56 85 C56 83 68 83 68 85 L70 94 L55 94 Z" data-color="boot" data-material="felt"/>
+    <path d="M36 47 C38 41 62 41 64 47 L66 55 L34 55 Z" data-color="coat" data-material="felt"/>
+    <path d="M40 47 C40 45.8 60 45.8 60 47 L67 76 L33 76 Z" data-color="coat" data-material="felt"/>
+    <path d="M36 33 C36 25.3 42.3 19 50 19 C57.7 19 64 25.3 64 33 C64 40.7 57.7 47 50 47 C42.3 47 36 40.7 36 33 Z" data-color="skin" data-material="felt"/>
+    <path d="M35 50 C33 40 32 28 34 20 C37 12 44 9 50 9 C56 9 63 12 66 20 C68 28 67 40 65 50 L60 49 C61 42 62 34 61 27 C57 25.5 54 26.5 50 24.5 C46 26.5 43 25.5 39 27 C38 34 39 42 40 49 Z" data-color="hair" data-material="felt"/>
+    <path d="M24 84 C26 87 28 89 28 91.5 C28 93.5 26 94 24 94 C22 94 20 93.5 20 91.5 C20 89 22 87 24 84 Z" data-color="water" data-material="cellophane"/>
+    <path d="M77 82 C79 85 81 87 81 89.5 C81 91.5 79 92 77 92 C75 92 73 91.5 73 89.5 C73 87 75 85 77 82 Z" data-color="water" data-material="cellophane"/>
+    <path d="M50 86 C51.5 88.5 53 90 53 92 C53 93.5 51.5 94 50 94 C48.5 94 47 93.5 47 92 C47 90 48.5 88.5 50 86 Z" data-color="water" data-material="cellophane"/>
+  </g>
+  <g id="line">
+    <path d="M50 50 L50 75" data-color="ink" data-w="0.8" data-stitch="running"/>
+  </g>
+  <g id="face">
+    <path d="M43.3 34 C43.3 33.1 44.1 32.3 45 32.3 C45.9 32.3 46.7 33.1 46.7 34 C46.7 34.9 45.9 35.7 45 35.7 C44.1 35.7 43.3 34.9 43.3 34 Z" data-color="eye"/>
+    <path d="M53.3 34 C53.3 33.1 54.1 32.3 55 32.3 C55.9 32.3 56.7 33.1 56.7 34 C56.7 34.9 55.9 35.7 55 35.7 C54.1 35.7 53.3 34.9 53.3 34 Z" data-color="eye"/>
+    <path d="M40.2 39 C40.2 37.7 41.2 36.6 42.5 36.6 C43.8 36.6 44.8 37.7 44.8 39 C44.8 40.3 43.8 41.4 42.5 41.4 C41.2 41.4 40.2 40.3 40.2 39 Z" data-color="cheek"/>
+    <path d="M55.2 39 C55.2 37.7 56.2 36.6 57.5 36.6 C58.8 36.6 59.8 37.7 59.8 39 C59.8 40.3 58.8 41.4 57.5 41.4 C56.2 41.4 55.2 40.3 55.2 39 Z" data-color="cheek"/>
+    <path d="M45.5 41 C47.5 45.5 52.5 45.5 54.5 41 Z" data-color="eye"/>
+    <path d="M48.6 58 C48.6 57.2 49.2 56.6 50 56.6 C50.8 56.6 51.4 57.2 51.4 58 C51.4 58.8 50.8 59.4 50 59.4 C49.2 59.4 48.6 58.8 48.6 58 Z" data-color="eye"/>
+    <path d="M48.6 66 C48.6 65.2 49.2 64.6 50 64.6 C50.8 64.6 51.4 65.2 51.4 66 C51.4 66.8 50.8 67.4 50 67.4 C49.2 67.4 48.6 66.8 48.6 66 Z" data-color="eye"/>
+  </g>
+</svg>

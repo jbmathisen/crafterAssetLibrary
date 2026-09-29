@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "avatar",
+  "role": "avatar",
+  "about": "The person writing: recolour per user, never redraw.",
+  "species": "child",
+  "description": "The default avatar, a felt child of about ten: one chestnut bob with a fringe cut as a single piece, round peach face, two button eyes, rosy felt cheeks, stitched smile, sage cotton dot-print top, denim-blue felt skirt, lilac tights. Rain days: yellow felt raincoat with two buttons and red felt wellies.",
+  "palette": {
+    "skin": "#F1C9A8",
+    "hair": "#6B3F2A",
+    "cheek": "#E58F80",
+    "eye": "#3A2E24",
+    "top": "#7FB3A3",
+    "print": "#F7F1E6",
+    "skirt": "#5B6F9E",
+    "legs": "#9C8FA8",
+    "shoe": "#4A3B30",
+    "coat": "#F2C94C",
+    "boot": "#D9534A",
+    "water": "#A9CDE6",
+    "shade": "#B9AA92",
+    "ink": "#4A3B30"
+  },
+  "poses": [
+    {
+      "id": "stand",
+      "description": "standing square to the reader in her everyday dot-print top and skirt, arms down, smiling",
+      "suits": [
+        "neutral",
+        "calm",
+        "indoor",
+        "school",
+        "waiting"
+      ],
+      "avoid": [],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/stand.svg",
+      "svg": "svg/stand.svg",
+      "png": "png/stand.png"
+    },
+    {
+      "id": "wave",
+      "description": "everyday clothes, one arm raised high in a wave, big smile",
+      "suits": [
+        "greeting",
+        "joy",
+        "friends",
+        "goodbye"
+      ],
+      "avoid": [
+        "sad",
+        "sensitive"
+      ],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/wave.svg",
+      "svg": "svg/wave.svg",
+      "png": "png/wave.png"
+    },
+    {
+      "id": "sit",
+      "description": "sitting on the ground in everyday clothes, legs out to the right, hands in her lap",
+      "suits": [
+        "reading",
+        "rest",
+        "quiet",
+        "picnic",
+        "reflective",
+        "tired"
+      ],
+      "avoid": [
+        "running",
+        "party"
+      ],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/sit.svg",
+      "svg": "svg/sit.svg",
+      "png": "png/sit.png"
+    },
+    {
+      "id": "jump",
+      "description": "yellow raincoat and red wellies, both arms flung up, knees bent mid-jump",
+      "suits": [
+        "rain",
+        "puddles",
+        "excitement",
+        "play"
+      ],
+      "avoid": [
+        "heat",
+        "sad"
+      ],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/jump.svg",
+      "svg": "svg/jump.svg",
+      "png": "png/jump.png"
+    },
+    {
+      "id": "splash",
+      "description": "yellow raincoat and red wellies landing feet apart, arms out sideways, three cellophane drops flying",
+      "suits": [
+        "rain",
+        "puddles",
+        "splash",
+        "gleeful"
+      ],
+      "avoid": [
+        "heat",
+        "sad",
+        "indoor"
+      ],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/splash.svg",
+      "svg": "svg/splash.svg",
+      "png": "png/splash.png"
+    }
+  ]
+}

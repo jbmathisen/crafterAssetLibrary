@@ -1,0 +1,56 @@
+{
+  "name": "felt-craft",
+  "paper": "#F3EBDB",
+  "text": "#2B2622",
+  "roles": {
+    "ink": "#4A3B30",
+    "inkSoft": "#8C7A68",
+    "pencil": "#C4B8A4",
+    "title": "#3A2F28",
+    "titleShadow": "#E8C36A",
+    "accentWarm": "#D9534A",
+    "accentCool": "#3F6E99",
+    "washWarm": "#F2C94C",
+    "washCool": "#9FB4C7",
+    "washGreen": "#8DAF6E",
+    "highlight": "#F6E27F"
+  },
+  "typography": {
+    "hand": {
+      "family": "Kalam",
+      "weight": 400,
+      "size": {
+        "max": 22,
+        "min": 13
+      },
+      "lineHeight": 1.6
+    },
+    "title": {
+      "family": "Caveat",
+      "weight": 700,
+      "size": 40,
+      "shadowOffset": [
+        2,
+        2
+      ]
+    },
+    "print": {
+      "family": "Jost",
+      "weight": 400,
+      "size": 10.5
+    }
+  },
+  "craft": {
+    "shadow": {
+      "dx": 1.5,
+      "dy": 2.5,
+      "blur": 2.5,
+      "alpha": 0.28
+    },
+    "edgeJitter": 1.2,
+    "handCut": 1,
+    "fibre": 0.55,
+    "settle": true
+  },
+  "notes": "One colour leads per page; the rest are dusty neutrals. Up to 4 roles per drawing plus ink, inkSoft, pencil and paper."
+}

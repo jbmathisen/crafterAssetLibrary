@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g id="fill">
+    <path d="M22 62 C14 58 10 50 14 42 C18 44 20 50 26 56 Z" data-color="fur" data-material="felt"/>
+    <path d="M24 74 L31 78 L18 92 L12 87 Z" data-color="fur" data-material="felt"/>
+    <path d="M32 76 L39 80 L28 94 L22 90 Z" data-color="fur" data-material="felt"/>
+    <path d="M62 70 L69 66 L82 80 L76 85 Z" data-color="fur" data-material="felt"/>
+    <path d="M70 72 L77 68 L90 82 L84 87 Z" data-color="fur" data-material="felt"/>
+    <path d="M20 70 C24 56 38 50 52 48 C64 46 74 50 78 58 C80 66 74 74 60 76 C44 78 24 80 20 70 Z" data-color="fur" data-material="felt"/>
+    <path d="M65 46 C65 38.3 71.3 32 79 32 C86.7 32 93 38.3 93 46 C93 53.7 86.7 60 79 60 C71.3 60 65 53.7 65 46 Z" data-color="fur" data-material="felt"/>
+    <path d="M63 56 L79 62 L77 67 L61 61 Z" data-color="collar" data-material="felt"/>
+    <path d="M68 36 C64 32 58 34 56 40 C55 46 60 50 64 48 C68 44 70 40 68 36 Z" data-color="ear" data-material="felt"/>
+    <path d="M80 51 C80 47.7 82.7 45 86 45 C89.3 45 92 47.7 92 51 C92 54.3 89.3 57 86 57 C82.7 57 80 54.3 80 51 Z" data-color="muzzle" data-material="felt"/>
+  </g>
+  <g id="line">
+    <path d="M28 56 C40 50 56 47 70 50" data-color="ink" data-w="0.8" data-stitch="running"/>
+  </g>
+  <g id="face">
+    <path d="M81.2 42 C81.2 41 82 40.2 83 40.2 C84 40.2 84.8 41 84.8 42 C84.8 43 84 43.8 83 43.8 C82 43.8 81.2 43 81.2 42 Z" data-color="eye"/>
+    <path d="M88.8 48 C88.8 46.8 89.8 45.8 91 45.8 C92.2 45.8 93.2 46.8 93.2 48 C93.2 49.2 92.2 50.2 91 50.2 C89.8 50.2 88.8 49.2 88.8 48 Z" data-color="nose"/>
+    <path d="M75.8 52 C75.8 50.9 76.7 50 77.8 50 C78.9 50 79.8 50.9 79.8 52 C79.8 53.1 78.9 54 77.8 54 C76.7 54 75.8 53.1 75.8 52 Z" data-color="cheek"/>
+    <path d="M83 54 C85 57 88 57 90 54.5" data-color="eye" data-w="0.8" data-stroke="1"/>
+  </g>
+</svg>

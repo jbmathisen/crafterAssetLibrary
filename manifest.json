@@ -1,0 +1,762 @@
+{
+  "name": "crafterAssetLibrary",
+  "style": "felt-craft",
+  "license": "CC0-1.0",
+  "assets": [
+    {
+      "id": "avatar/stand",
+      "type": "character",
+      "role": "avatar",
+      "tags": [
+        "avatar",
+        "neutral",
+        "calm",
+        "indoor",
+        "school",
+        "waiting"
+      ],
+      "description": "standing square to the reader in her everyday dot-print top and skirt, arms down, smiling",
+      "source": "characters/avatar/source/stand.svg",
+      "svg": "characters/avatar/svg/stand.svg",
+      "png": "characters/avatar/png/stand.png"
+    },
+    {
+      "id": "avatar/wave",
+      "type": "character",
+      "role": "avatar",
+      "tags": [
+        "avatar",
+        "greeting",
+        "joy",
+        "friends",
+        "goodbye"
+      ],
+      "description": "everyday clothes, one arm raised high in a wave, big smile",
+      "source": "characters/avatar/source/wave.svg",
+      "svg": "characters/avatar/svg/wave.svg",
+      "png": "characters/avatar/png/wave.png"
+    },
+    {
+      "id": "avatar/sit",
+      "type": "character",
+      "role": "avatar",
+      "tags": [
+        "avatar",
+        "reading",
+        "rest",
+        "quiet",
+        "picnic",
+        "reflective",
+        "tired"
+      ],
+      "description": "sitting on the ground in everyday clothes, legs out to the right, hands in her lap",
+      "source": "characters/avatar/source/sit.svg",
+      "svg": "characters/avatar/svg/sit.svg",
+      "png": "characters/avatar/png/sit.png"
+    },
+    {
+      "id": "avatar/jump",
+      "type": "character",
+      "role": "avatar",
+      "tags": [
+        "avatar",
+        "rain",
+        "puddles",
+        "excitement",
+        "play"
+      ],
+      "description": "yellow raincoat and red wellies, both arms flung up, knees bent mid-jump",
+      "source": "characters/avatar/source/jump.svg",
+      "svg": "characters/avatar/svg/jump.svg",
+      "png": "characters/avatar/png/jump.png"
+    },
+    {
+      "id": "avatar/splash",
+      "type": "character",
+      "role": "avatar",
+      "tags": [
+        "avatar",
+        "rain",
+        "puddles",
+        "splash",
+        "gleeful"
+      ],
+      "description": "yellow raincoat and red wellies landing feet apart, arms out sideways, three cellophane drops flying",
+      "source": "characters/avatar/source/splash.svg",
+      "svg": "characters/avatar/svg/splash.svg",
+      "png": "characters/avatar/png/splash.png"
+    },
+    {
+      "id": "companion/stand",
+      "type": "character",
+      "role": "companion",
+      "tags": [
+        "companion",
+        "neutral",
+        "walk",
+        "waiting",
+        "calm"
+      ],
+      "description": "standing on all four legs facing right, tail up, looking ahead",
+      "source": "characters/companion/source/stand.svg",
+      "svg": "characters/companion/svg/stand.svg",
+      "png": "characters/companion/png/stand.png"
+    },
+    {
+      "id": "companion/jump",
+      "type": "character",
+      "role": "companion",
+      "tags": [
+        "companion",
+        "play",
+        "puddles",
+        "excitement",
+        "running",
+        "fetch"
+      ],
+      "description": "mid-leap facing right, front legs stretched forward, back legs kicked back, ear flying",
+      "source": "characters/companion/source/jump.svg",
+      "svg": "characters/companion/svg/jump.svg",
+      "png": "characters/companion/png/jump.png"
+    },
+    {
+      "id": "companion/sit",
+      "type": "character",
+      "role": "companion",
+      "tags": [
+        "companion",
+        "calm",
+        "waiting",
+        "indoor",
+        "listening",
+        "quiet"
+      ],
+      "description": "sitting upright facing right, front legs straight, tail curled on the ground",
+      "source": "characters/companion/source/sit.svg",
+      "svg": "characters/companion/svg/sit.svg",
+      "png": "characters/companion/png/sit.png"
+    },
+    {
+      "id": "mascot/sit",
+      "type": "character",
+      "role": "mascot",
+      "tags": [
+        "mascot",
+        "calm",
+        "content",
+        "neutral",
+        "reading",
+        "quiet"
+      ],
+      "description": "resting on its curled tail, fluke on the ground, fin down, looking at the reader",
+      "source": "characters/mascot/source/sit.svg",
+      "svg": "characters/mascot/svg/sit.svg",
+      "png": "characters/mascot/png/sit.png"
+    },
+    {
+      "id": "mascot/umbrella",
+      "type": "character",
+      "role": "mascot",
+      "tags": [
+        "mascot",
+        "rain",
+        "walking",
+        "weather",
+        "tired"
+      ],
+      "description": "resting on its curled tail under a small coral umbrella held up in one fin, spout drooping",
+      "source": "characters/mascot/source/umbrella.svg",
+      "svg": "characters/mascot/svg/umbrella.svg",
+      "png": "characters/mascot/png/umbrella.png"
+    },
+    {
+      "id": "mascot/peek",
+      "type": "character",
+      "role": "mascot",
+      "tags": [
+        "mascot",
+        "curious",
+        "surprise",
+        "busy",
+        "playful"
+      ],
+      "description": "only the head, spout and one wide eye peeking up from the bottom edge of its box",
+      "source": "characters/mascot/source/peek.svg",
+      "svg": "characters/mascot/svg/peek.svg",
+      "png": "characters/mascot/png/peek.png"
+    },
+    {
+      "id": "mascot/sleep",
+      "type": "character",
+      "role": "mascot",
+      "tags": [
+        "mascot",
+        "tired",
+        "night",
+        "rest",
+        "sick",
+        "sad"
+      ],
+      "description": "lying curled on its side, eyes closed (curved lines), small \"z z\"",
+      "source": "characters/mascot/source/sleep.svg",
+      "svg": "characters/mascot/svg/sleep.svg",
+      "png": "characters/mascot/png/sleep.png"
+    },
+    {
+      "id": "mascot/wave",
+      "type": "character",
+      "role": "mascot",
+      "tags": [
+        "mascot",
+        "joy",
+        "greeting",
+        "friends",
+        "celebration"
+      ],
+      "description": "resting on its curled tail, one fin raised high in a wave, spout splashing happily",
+      "source": "characters/mascot/source/wave.svg",
+      "svg": "characters/mascot/svg/wave.svg",
+      "png": "characters/mascot/png/wave.png"
+    },
+    {
+      "id": "items/heart",
+      "type": "item",
+      "tags": [
+        "love",
+        "sticker",
+        "happy"
+      ],
+      "description": "a red felt heart with a running stitch just inside its edge",
+      "source": "items/source/heart.svg",
+      "svg": "items/svg/heart.svg",
+      "png": "items/png/heart.png"
+    },
+    {
+      "id": "items/star",
+      "type": "item",
+      "tags": [
+        "sticker",
+        "night",
+        "proud",
+        "award"
+      ],
+      "description": "a yellow cardstock star",
+      "source": "items/source/star.svg",
+      "svg": "items/svg/star.svg",
+      "png": "items/png/star.png"
+    },
+    {
+      "id": "items/rainbow",
+      "type": "item",
+      "tags": [
+        "weather",
+        "happy",
+        "after rain",
+        "sticker"
+      ],
+      "description": "a three-band felt rainbow with a cloud at each foot",
+      "source": "items/source/rainbow.svg",
+      "svg": "items/svg/rainbow.svg",
+      "png": "items/png/rainbow.png"
+    },
+    {
+      "id": "items/butterfly",
+      "type": "item",
+      "tags": [
+        "garden",
+        "spring",
+        "insect",
+        "sticker"
+      ],
+      "description": "a felt butterfly: blue upper wings, pale yellow lower wings, dark body and thread antennae",
+      "source": "items/source/butterfly.svg",
+      "svg": "items/svg/butterfly.svg",
+      "png": "items/png/butterfly.png"
+    },
+    {
+      "id": "items/flower",
+      "type": "item",
+      "tags": [
+        "garden",
+        "spring",
+        "sticker",
+        "plant"
+      ],
+      "description": "a six-petal cream felt flower with a yellow centre, stem and leaf",
+      "source": "items/source/flower.svg",
+      "svg": "items/svg/flower.svg",
+      "png": "items/png/flower.png"
+    },
+    {
+      "id": "items/cloud",
+      "type": "item",
+      "tags": [
+        "weather",
+        "sky"
+      ],
+      "description": "a soft cream felt cloud with a running-stitch seam",
+      "source": "items/source/cloud.svg",
+      "svg": "items/svg/cloud.svg",
+      "png": "items/png/cloud.png"
+    },
+    {
+      "id": "items/raindrop",
+      "type": "item",
+      "tags": [
+        "weather",
+        "rain",
+        "water"
+      ],
+      "description": "a cellophane raindrop that keeps falling on the page (data-motion=fall)",
+      "source": "items/source/raindrop.svg",
+      "svg": "items/svg/raindrop.svg",
+      "png": "items/png/raindrop.png"
+    },
+    {
+      "id": "items/sun",
+      "type": "item",
+      "tags": [
+        "weather",
+        "summer",
+        "beach",
+        "sky"
+      ],
+      "description": "a yellow felt sun with eight cardstock rays",
+      "source": "items/source/sun.svg",
+      "svg": "items/svg/sun.svg",
+      "png": "items/png/sun.png"
+    },
+    {
+      "id": "items/house",
+      "type": "item",
+      "tags": [
+        "home",
+        "street",
+        "building"
+      ],
+      "description": "a cardstock house: stone body, red felt roof, green door, two lit windows",
+      "source": "items/source/house.svg",
+      "svg": "items/svg/house.svg",
+      "png": "items/png/house.png"
+    },
+    {
+      "id": "items/tree",
+      "type": "item",
+      "tags": [
+        "garden",
+        "park",
+        "nature",
+        "plant"
+      ],
+      "description": "a round moss-green felt tree with a dark trunk",
+      "source": "items/source/tree.svg",
+      "svg": "items/svg/tree.svg",
+      "png": "items/png/tree.png"
+    },
+    {
+      "id": "scenes/rain-puddles/hero",
+      "type": "scene",
+      "tags": [
+        "example",
+        "rain-puddles"
+      ],
+      "description": "wet street home: grey-blue felt sky, cellophane rain, three cardstock houses with lit windows, big dark felt puddle; the avatar (splash) in yellow raincoat and red wellies landing mid-puddle, the companion (jump) leaping in",
+      "source": "scenes/rain-puddles/hero.svg",
+      "svg": "scenes/rain-puddles/svg/hero.svg",
+      "png": "scenes/rain-puddles/hero.png"
+    },
+    {
+      "id": "scenes/rain-puddles/spot-1",
+      "type": "item",
+      "tags": [
+        "example",
+        "rain-puddles"
+      ],
+      "description": "one red felt wellington boot filled to the brim with cellophane water, a few drops jumping out, standing in a small dark puddle",
+      "source": "scenes/rain-puddles/spot-1.svg",
+      "svg": "scenes/rain-puddles/svg/spot-1.svg",
+      "png": "scenes/rain-puddles/spot-1.png"
+    },
+    {
+      "id": "scenes/grandma-pancakes/hero",
+      "type": "scene",
+      "tags": [
+        "example",
+        "grandma-pancakes"
+      ],
+      "description": "grandma's kitchen: blue felt wall, a gingham-valanced window, green cupboards; a golden pancake flying above a dark pan, a pancake stack, a bowl of strawberries; the avatar (stand) at the stove, the companion (sit)",
+      "source": "scenes/grandma-pancakes/hero.svg",
+      "svg": "scenes/grandma-pancakes/svg/hero.svg",
+      "png": "scenes/grandma-pancakes/hero.png"
+    },
+    {
+      "id": "scenes/grandma-pancakes/spot-1",
+      "type": "item",
+      "tags": [
+        "example",
+        "grandma-pancakes"
+      ],
+      "description": "a lumpy golden felt pancake shaped like a map of Norway on a round cardstock plate, one strawberry beside it",
+      "source": "scenes/grandma-pancakes/spot-1.svg",
+      "svg": "scenes/grandma-pancakes/svg/spot-1.svg",
+      "png": "scenes/grandma-pancakes/spot-1.png"
+    },
+    {
+      "id": "scenes/beach-sandcastle/hero",
+      "type": "scene",
+      "tags": [
+        "example",
+        "beach-sandcastle"
+      ],
+      "description": "beach: blue sky, yellow sun, navy sea with cellophane glints, stone burlap sand; a three-tower yellow sandcastle with shell windows, red flag and a moat fed from the sea; red bucket; the avatar (jump) cheering",
+      "source": "scenes/beach-sandcastle/hero.svg",
+      "svg": "scenes/beach-sandcastle/svg/hero.svg",
+      "png": "scenes/beach-sandcastle/hero.png"
+    },
+    {
+      "id": "scenes/beach-sandcastle/spot-1",
+      "type": "item",
+      "tags": [
+        "example",
+        "beach-sandcastle"
+      ],
+      "description": "a tiny red felt crab peeking out from under a grey felt rock on burlap sand, eyes up, claws raised",
+      "source": "scenes/beach-sandcastle/spot-1.svg",
+      "svg": "scenes/beach-sandcastle/svg/spot-1.svg",
+      "png": "scenes/beach-sandcastle/spot-1.png"
+    },
+    {
+      "id": "materials/banner",
+      "type": "material",
+      "tags": [
+        "banner"
+      ],
+      "description": "banner",
+      "png": "materials/banner.png"
+    },
+    {
+      "id": "materials/burlap-b08a5c",
+      "type": "material",
+      "tags": [
+        "burlap"
+      ],
+      "description": "burlap b08a5c",
+      "png": "materials/burlap-b08a5c.png"
+    },
+    {
+      "id": "materials/burlap-c9a77a",
+      "type": "material",
+      "tags": [
+        "burlap"
+      ],
+      "description": "burlap c9a77a",
+      "png": "materials/burlap-c9a77a.png"
+    },
+    {
+      "id": "materials/burlap-d8c29a",
+      "type": "material",
+      "tags": [
+        "burlap"
+      ],
+      "description": "burlap d8c29a",
+      "png": "materials/burlap-d8c29a.png"
+    },
+    {
+      "id": "materials/button-eye",
+      "type": "material",
+      "tags": [
+        "button"
+      ],
+      "description": "button eye",
+      "png": "materials/button-eye.png"
+    },
+    {
+      "id": "materials/cardstock-5f9ed0",
+      "type": "material",
+      "tags": [
+        "cardstock"
+      ],
+      "description": "cardstock 5f9ed0",
+      "png": "materials/cardstock-5f9ed0.png"
+    },
+    {
+      "id": "materials/cardstock-e9a23b",
+      "type": "material",
+      "tags": [
+        "cardstock"
+      ],
+      "description": "cardstock e9a23b",
+      "png": "materials/cardstock-e9a23b.png"
+    },
+    {
+      "id": "materials/cardstock-ffffff",
+      "type": "material",
+      "tags": [
+        "cardstock"
+      ],
+      "description": "cardstock ffffff",
+      "png": "materials/cardstock-ffffff.png"
+    },
+    {
+      "id": "materials/cellophane-5f9ed0",
+      "type": "material",
+      "tags": [
+        "cellophane"
+      ],
+      "description": "cellophane 5f9ed0",
+      "png": "materials/cellophane-5f9ed0.png"
+    },
+    {
+      "id": "materials/cellophane-e4867a",
+      "type": "material",
+      "tags": [
+        "cellophane"
+      ],
+      "description": "cellophane e4867a",
+      "png": "materials/cellophane-e4867a.png"
+    },
+    {
+      "id": "materials/cellophane-f7e27a",
+      "type": "material",
+      "tags": [
+        "cellophane"
+      ],
+      "description": "cellophane f7e27a",
+      "png": "materials/cellophane-f7e27a.png"
+    },
+    {
+      "id": "materials/cotton-a9cde6",
+      "type": "material",
+      "tags": [
+        "cotton"
+      ],
+      "description": "cotton a9cde6",
+      "png": "materials/cotton-a9cde6.png"
+    },
+    {
+      "id": "materials/cotton-dots",
+      "type": "material",
+      "tags": [
+        "cotton"
+      ],
+      "description": "cotton dots",
+      "png": "materials/cotton-dots.png"
+    },
+    {
+      "id": "materials/cotton-e9bc60",
+      "type": "material",
+      "tags": [
+        "cotton"
+      ],
+      "description": "cotton e9bc60",
+      "png": "materials/cotton-e9bc60.png"
+    },
+    {
+      "id": "materials/cotton-f3e3c3",
+      "type": "material",
+      "tags": [
+        "cotton"
+      ],
+      "description": "cotton f3e3c3",
+      "png": "materials/cotton-f3e3c3.png"
+    },
+    {
+      "id": "materials/cotton-floral",
+      "type": "material",
+      "tags": [
+        "cotton"
+      ],
+      "description": "cotton floral",
+      "png": "materials/cotton-floral.png"
+    },
+    {
+      "id": "materials/cotton-gingham",
+      "type": "material",
+      "tags": [
+        "cotton"
+      ],
+      "description": "cotton gingham",
+      "png": "materials/cotton-gingham.png"
+    },
+    {
+      "id": "materials/cotton-stripes",
+      "type": "material",
+      "tags": [
+        "cotton"
+      ],
+      "description": "cotton stripes",
+      "png": "materials/cotton-stripes.png"
+    },
+    {
+      "id": "materials/denim-3b557d",
+      "type": "material",
+      "tags": [
+        "denim"
+      ],
+      "description": "denim 3b557d",
+      "png": "materials/denim-3b557d.png"
+    },
+    {
+      "id": "materials/denim-4e6f9e",
+      "type": "material",
+      "tags": [
+        "denim"
+      ],
+      "description": "denim 4e6f9e",
+      "png": "materials/denim-4e6f9e.png"
+    },
+    {
+      "id": "materials/denim-6d8dba",
+      "type": "material",
+      "tags": [
+        "denim"
+      ],
+      "description": "denim 6d8dba",
+      "png": "materials/denim-6d8dba.png"
+    },
+    {
+      "id": "materials/felt-6e9fcb",
+      "type": "material",
+      "tags": [
+        "felt"
+      ],
+      "description": "felt 6e9fcb",
+      "png": "materials/felt-6e9fcb.png"
+    },
+    {
+      "id": "materials/felt-93b86a",
+      "type": "material",
+      "tags": [
+        "felt"
+      ],
+      "description": "felt 93b86a",
+      "png": "materials/felt-93b86a.png"
+    },
+    {
+      "id": "materials/felt-d9534a",
+      "type": "material",
+      "tags": [
+        "felt"
+      ],
+      "description": "felt d9534a",
+      "png": "materials/felt-d9534a.png"
+    },
+    {
+      "id": "materials/note",
+      "type": "material",
+      "tags": [
+        "note"
+      ],
+      "description": "note",
+      "png": "materials/note.png"
+    },
+    {
+      "id": "materials/paper-e8f0fa",
+      "type": "material",
+      "tags": [
+        "paper"
+      ],
+      "description": "paper e8f0fa",
+      "png": "materials/paper-e8f0fa.png"
+    },
+    {
+      "id": "materials/paper-f7e6e6",
+      "type": "material",
+      "tags": [
+        "paper"
+      ],
+      "description": "paper f7e6e6",
+      "png": "materials/paper-f7e6e6.png"
+    },
+    {
+      "id": "materials/paper-fffdf6",
+      "type": "material",
+      "tags": [
+        "paper"
+      ],
+      "description": "paper fffdf6",
+      "png": "materials/paper-fffdf6.png"
+    },
+    {
+      "id": "materials/stitch-blanket",
+      "type": "material",
+      "tags": [
+        "stitch"
+      ],
+      "description": "stitch blanket",
+      "png": "materials/stitch-blanket.png"
+    },
+    {
+      "id": "materials/stitch-cross",
+      "type": "material",
+      "tags": [
+        "stitch"
+      ],
+      "description": "stitch cross",
+      "png": "materials/stitch-cross.png"
+    },
+    {
+      "id": "materials/stitch-running",
+      "type": "material",
+      "tags": [
+        "stitch"
+      ],
+      "description": "stitch running",
+      "png": "materials/stitch-running.png"
+    },
+    {
+      "id": "materials/stitch-twine",
+      "type": "material",
+      "tags": [
+        "stitch"
+      ],
+      "description": "stitch twine",
+      "png": "materials/stitch-twine.png"
+    },
+    {
+      "id": "materials/tag",
+      "type": "material",
+      "tags": [
+        "tag"
+      ],
+      "description": "tag",
+      "png": "materials/tag.png"
+    },
+    {
+      "id": "textures/felt-rose",
+      "type": "texture",
+      "tags": [
+        "texture"
+      ],
+      "description": "rose felt cloth (book-cover felt)",
+      "png": "textures/felt-rose.png"
+    },
+    {
+      "id": "textures/paper-cardstock",
+      "type": "texture",
+      "tags": [
+        "texture"
+      ],
+      "description": "cream cardstock sheet with fibre tooth, cloudy mottling and uneven light (use as a page background)",
+      "png": "textures/paper-cardstock.png"
+    },
+    {
+      "id": "textures/paper-grain-multiply",
+      "type": "texture",
+      "tags": [
+        "texture"
+      ],
+      "description": "the same paper grain on white: lay it over anything with mix-blend-mode: multiply",
+      "png": "textures/paper-grain-multiply.png"
+    },
+    {
+      "id": "textures/woven-rose",
+      "type": "texture",
+      "tags": [
+        "texture"
+      ],
+      "description": "rose woven book cloth",
+      "png": "textures/woven-rose.png"
+    }
+  ]
+}

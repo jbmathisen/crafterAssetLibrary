@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <g id="fill">
+    <path d="M158.554 86.9062 L188 100 L158.554 113.094 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M150.662 132.145 L162.225 162.226 L132.145 150.663 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M113.094 158.554 L99.9996 188 L86.906 158.554 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M67.8546 150.662 L37.7742 162.225 L49.3374 132.145 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M41.446 113.093 L12 99.9994 L41.4462 86.9058 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M49.3378 67.8544 L37.7752 37.774 L67.8554 49.3372 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M86.9068 41.446 L100.001 12 L113.094 41.4462 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M132.146 49.3378 L162.226 37.7754 L150.663 67.8556 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M44 100 C44 69.0712 69.0712 44 100 44 C130.929 44 156 69.0712 156 100 C156 130.929 130.929 156 100 156 C69.0712 156 44 130.929 44 100 Z" data-color="washWarm" data-material="felt"/>
+  </g>
+  <g id="line">
+
+  </g>
+</svg>

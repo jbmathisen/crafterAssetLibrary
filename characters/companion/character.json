@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "companion",
+  "role": "companion",
+  "about": "A pet or friend who shows up in the story.",
+  "species": "dog",
+  "description": "The companion, the writer's small biscuit-coloured felt dog in side view: one bean body, round head, one darker floppy ear cut as a single piece, cream muzzle patch, button nose and eye, rosy cheek, red felt collar, four stubby legs, tail up, and a running-stitch seam along his back.",
+  "palette": {
+    "fur": "#C9A46B",
+    "ear": "#A8834F",
+    "muzzle": "#EADFC6",
+    "collar": "#D9534A",
+    "nose": "#3A2E24",
+    "eye": "#3A2E24",
+    "cheek": "#E58F80",
+    "shade": "#B9AA92",
+    "ink": "#4A3B30"
+  },
+  "poses": [
+    {
+      "id": "stand",
+      "description": "standing on all four legs facing right, tail up, looking ahead",
+      "suits": [
+        "neutral",
+        "walk",
+        "waiting",
+        "calm"
+      ],
+      "avoid": [],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/stand.svg",
+      "svg": "svg/stand.svg",
+      "png": "png/stand.png"
+    },
+    {
+      "id": "jump",
+      "description": "mid-leap facing right, front legs stretched forward, back legs kicked back, ear flying",
+      "suits": [
+        "play",
+        "puddles",
+        "excitement",
+        "running",
+        "fetch"
+      ],
+      "avoid": [
+        "sad",
+        "tired"
+      ],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/jump.svg",
+      "svg": "svg/jump.svg",
+      "png": "png/jump.png"
+    },
+    {
+      "id": "sit",
+      "description": "sitting upright facing right, front legs straight, tail curled on the ground",
+      "suits": [
+        "calm",
+        "waiting",
+        "indoor",
+        "listening",
+        "quiet"
+      ],
+      "avoid": [
+        "running"
+      ],
+      "slotRoles": [
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/sit.svg",
+      "svg": "svg/sit.svg",
+      "png": "png/sit.png"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "mascot",
+  "role": "mascot",
+  "about": "The diary's own character; reacts to the day.",
+  "species": "whale",
+  "description": "the mascot as a felt cut-out, same side-view silhouette: round head tapering to a two-lobed fluke in dusty-blue felt, a cream cotton belly with a running stitch along its top, a small fin used as a hand, one button eye, stitched smile, rosy felt cheek and pale cellophane spout drops that droop when tired.",
+  "palette": {
+    "body": "#6E9FCB",
+    "belly": "#F6EEDC",
+    "cheek": "#E4867A",
+    "eye": "#3A2E24",
+    "spout": "#B9D6EA",
+    "prop": "#D9534A",
+    "prop2": "#E8C36A",
+    "glint": "#FFFFFF",
+    "shade": "#B9AA92",
+    "ink": "#4A3B30"
+  },
+  "poses": [
+    {
+      "id": "sit",
+      "description": "resting on its curled tail, fluke on the ground, fin down, looking at the reader",
+      "suits": [
+        "calm",
+        "content",
+        "neutral",
+        "reading",
+        "quiet"
+      ],
+      "avoid": [],
+      "slotRoles": [
+        "mascot",
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/sit.svg",
+      "svg": "svg/sit.svg",
+      "png": "png/sit.png"
+    },
+    {
+      "id": "umbrella",
+      "description": "resting on its curled tail under a small coral umbrella held up in one fin, spout drooping",
+      "suits": [
+        "rain",
+        "walking",
+        "weather",
+        "tired"
+      ],
+      "avoid": [
+        "clear",
+        "heat"
+      ],
+      "slotRoles": [
+        "mascot"
+      ],
+      "anchor": "bottom",
+      "source": "source/umbrella.svg",
+      "svg": "svg/umbrella.svg",
+      "png": "png/umbrella.png"
+    },
+    {
+      "id": "peek",
+      "description": "only the head, spout and one wide eye peeking up from the bottom edge of its box",
+      "suits": [
+        "curious",
+        "surprise",
+        "busy",
+        "playful"
+      ],
+      "avoid": [
+        "grief"
+      ],
+      "slotRoles": [
+        "mascot"
+      ],
+      "anchor": "bottom",
+      "source": "source/peek.svg",
+      "svg": "svg/peek.svg",
+      "png": "png/peek.png"
+    },
+    {
+      "id": "sleep",
+      "description": "lying curled on its side, eyes closed (curved lines), small \"z z\"",
+      "suits": [
+        "tired",
+        "night",
+        "rest",
+        "sick",
+        "sad"
+      ],
+      "avoid": [
+        "party",
+        "joy"
+      ],
+      "slotRoles": [
+        "mascot",
+        "spot"
+      ],
+      "anchor": "bottom",
+      "source": "source/sleep.svg",
+      "svg": "svg/sleep.svg",
+      "png": "png/sleep.png"
+    },
+    {
+      "id": "wave",
+      "description": "resting on its curled tail, one fin raised high in a wave, spout splashing happily",
+      "suits": [
+        "joy",
+        "greeting",
+        "friends",
+        "celebration"
+      ],
+      "avoid": [
+        "grief",
+        "sensitive"
+      ],
+      "slotRoles": [
+        "mascot"
+      ],
+      "anchor": "bottom",
+      "source": "source/wave.svg",
+      "svg": "svg/wave.svg",
+      "png": "png/wave.png"
+    }
+  ]
+}

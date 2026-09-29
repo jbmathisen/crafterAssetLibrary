@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <g id="fill">
+    <path d="M44 96 L156 96 L156 180 L44 180 Z" data-color="pencil" data-material="cardstock"/>
+    <path d="M28 100 L100 32 L172 100 Z" data-color="accentWarm" data-material="felt"/>
+    <path d="M88 132 L116 132 L116 180 L88 180 Z" data-color="washGreen" data-material="cardstock"/>
+    <path d="M56 112 L80 112 L80 136 L56 136 Z" data-color="washWarm" data-material="cardstock"/>
+    <path d="M124 112 L148 112 L148 136 L124 136 Z" data-color="washWarm" data-material="cardstock"/>
+  </g>
+  <g id="line">
+    <path d="M68 110 L68 138 M54 124 L82 124" data-color="ink" data-w="0.6"/>
+    <path d="M136 110 L136 138 M122 124 L150 124" data-color="ink" data-w="0.6"/>
+  </g>
+</svg>

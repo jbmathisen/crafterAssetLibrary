@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>crafterAssetLibrary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root { --bg: #EDE0C8; --card: #F3EBDB; --ink: #3A2F28; --soft: #7A6B58; --accent: #2E3F7C; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: Jost, system-ui, sans-serif; }
+  header { max-width: 1200px; margin: 0 auto; padding: 32px 16px 8px; }
+  h1 { font: 700 48px/1 Caveat, cursive; margin: 0 0 6px; }
+  p { color: var(--soft); margin: 0 0 16px; max-width: 70ch; }
+  nav { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 0; }
+  nav button, input { font: 400 14px Jost, sans-serif; border: 1px solid #D4C4A6; background: var(--card); color: var(--ink); border-radius: 16px; padding: 6px 14px; cursor: pointer; }
+  nav button[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+  input { cursor: text; min-width: 220px; }
+  main { max-width: 1200px; margin: 0 auto; padding: 16px; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 14px; }
+  .card { background: var(--card); border-radius: 8px; padding: 10px; box-shadow: 0 1px 2px rgba(60,40,20,.12), 0 6px 16px rgba(60,40,20,.1); display: flex; flex-direction: column; gap: 6px; }
+  .card img { width: 100%; aspect-ratio: 1; object-fit: contain; }
+  .card.wide { grid-column: span 2; }
+  .card.wide img { aspect-ratio: 3 / 2; }
+  .card b { font: 700 19px/1 Caveat, cursive; }
+  .card small { font-size: 11.5px; color: var(--soft); line-height: 1.35; }
+  .card .links { display: flex; gap: 10px; font-size: 12px; }
+  .card a { color: var(--accent); }
+  @media (max-width: 480px) { .card.wide { grid-column: span 1; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>crafterAssetLibrary</h1>
+  <p>Free (CC0) felt-craft assets: characters, items, scenes, materials and paper. Reuse before you generate.</p>
+  <nav id="filters"><input id="q" type="search" placeholder="search: rain, garden, happy…" aria-label="search assets"></nav>
+</header>
+<main id="grid"></main>
+<script>
+(async () => {
+  const m = await (await fetch("manifest.json")).json();
+  const types = ["all", ...new Set(m.assets.map((a) => a.type))];
+  let type = "all", q = "";
+  const nav = document.getElementById("filters"), grid = document.getElementById("grid"), input = document.getElementById("q");
+  for (const t of types) {
+    const b = document.createElement("button");
+    b.textContent = t; b.setAttribute("aria-pressed", String(t === type));
+    b.onclick = () => { type = t; nav.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", String(x === b))); render(); };
+    nav.insertBefore(b, input);
+  }
+  input.oninput = () => { q = input.value.toLowerCase().trim(); render(); };
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+  function render() {
+    grid.innerHTML = "";
+    for (const a of m.assets) {
+      if (type !== "all" && a.type !== type) continue;
+      const hay = `${a.id} ${a.description} ${(a.tags || []).join(" ")}`.toLowerCase();
+      if (q && !hay.includes(q)) continue;
+      const card = document.createElement("div");
+      card.className = "card" + (a.type === "scene" || a.type === "texture" ? " wide" : "");
+      const links = [a.png && `<a href="${esc(a.png)}">png</a>`, a.svg && `<a href="${esc(a.svg)}">svg</a>`, a.source && `<a href="${esc(a.source)}">source</a>`].filter(Boolean).join("");
+      card.innerHTML = `<img loading="lazy" src="${esc(a.png)}" alt="${esc(a.description)}"><b>${esc(a.id.split("/").pop())}</b><small>${esc(a.description)}</small><div class="links">${links}</div>`;
+      grid.appendChild(card);
+    }
+  }
+  render();
+})();
+</script>
+</body>
+</html>
