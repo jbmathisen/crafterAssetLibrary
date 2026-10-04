@@ -54,4 +54,18 @@ n += run(path.join(root, "scenes"), () => roleColors);
 if (fs.existsSync(path.join(root, "play"))) {
   for (const g of fs.readdirSync(path.join(root, "play"), { withFileTypes: true }).filter((e) => e.isDirectory())) n += run(path.join(root, "play", g.name, "source"), () => roleColors);
 }
+// games/<game>/source: pieces (everything but "board") get a red- and a blue- variant by recolouring accentWarm
+const SIDES = { red: "#D9534A", blue: "#3F6E99" };
+if (fs.existsSync(path.join(root, "games"))) {
+  for (const g of fs.readdirSync(path.join(root, "games"), { withFileTypes: true }).filter((e) => e.isDirectory())) {
+    const src = path.join(root, "games", g.name, "source"), out = path.join(root, "games", g.name, "svg");
+    if (!fs.existsSync(src)) continue;
+    fs.mkdirSync(out, { recursive: true });
+    for (const f of fs.readdirSync(src).filter((x) => x.endsWith(".svg"))) {
+      const text = fs.readFileSync(path.join(src, f), "utf8");
+      if (f === "board.svg") { fs.writeFileSync(path.join(out, f), bake(text, roleColors)); n++; continue; }
+      for (const [side, hex] of Object.entries(SIDES)) { fs.writeFileSync(path.join(out, `${side}-${f}`), bake(text, { ...roleColors, accentWarm: hex })); n++; }
+    }
+  }
+}
 console.log(`baked ${n} flat SVGs`);
