@@ -1153,6 +1153,199 @@
       "source": "play/beach/source/crab.svg",
       "svg": "play/beach/svg/crab.svg",
       "png": "play/beach/png/crab.png"
+    },
+    {
+      "id": "games/chess/red-pawn",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "pawn",
+        "red",
+        "piece"
+      ],
+      "description": "red felt chess piece: a little round-headed pawn with button eyes and a smile",
+      "source": "games/chess/source/pawn.svg",
+      "svg": "games/chess/svg/red-pawn.svg",
+      "png": "games/chess/png/red-pawn.png"
+    },
+    {
+      "id": "games/chess/blue-pawn",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "pawn",
+        "blue",
+        "piece"
+      ],
+      "description": "blue felt chess piece: a little round-headed pawn with button eyes and a smile",
+      "source": "games/chess/source/pawn.svg",
+      "svg": "games/chess/svg/blue-pawn.svg",
+      "png": "games/chess/png/blue-pawn.png"
+    },
+    {
+      "id": "games/chess/red-rook",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "rook",
+        "red",
+        "piece"
+      ],
+      "description": "red felt chess piece: a castle-tower rook with a crenellated top, button eyes and a smile",
+      "source": "games/chess/source/rook.svg",
+      "svg": "games/chess/svg/red-rook.svg",
+      "png": "games/chess/png/red-rook.png"
+    },
+    {
+      "id": "games/chess/blue-rook",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "rook",
+        "blue",
+        "piece"
+      ],
+      "description": "blue felt chess piece: a castle-tower rook with a crenellated top, button eyes and a smile",
+      "source": "games/chess/source/rook.svg",
+      "svg": "games/chess/svg/blue-rook.svg",
+      "png": "games/chess/png/blue-rook.png"
+    },
+    {
+      "id": "games/chess/red-knight",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "knight",
+        "red",
+        "piece"
+      ],
+      "description": "red felt chess piece: a friendly horse-head knight in profile with a yellow felt mane and an inner ear",
+      "source": "games/chess/source/knight.svg",
+      "svg": "games/chess/svg/red-knight.svg",
+      "png": "games/chess/png/red-knight.png"
+    },
+    {
+      "id": "games/chess/blue-knight",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "knight",
+        "blue",
+        "piece"
+      ],
+      "description": "blue felt chess piece: a friendly horse-head knight in profile with a yellow felt mane and an inner ear",
+      "source": "games/chess/source/knight.svg",
+      "svg": "games/chess/svg/blue-knight.svg",
+      "png": "games/chess/png/blue-knight.png"
+    },
+    {
+      "id": "games/chess/red-bishop",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "bishop",
+        "red",
+        "piece"
+      ],
+      "description": "red felt chess piece: a pointed-hat bishop with a pom-pom tip, button eyes and a smile",
+      "source": "games/chess/source/bishop.svg",
+      "svg": "games/chess/svg/red-bishop.svg",
+      "png": "games/chess/png/red-bishop.png"
+    },
+    {
+      "id": "games/chess/blue-bishop",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "bishop",
+        "blue",
+        "piece"
+      ],
+      "description": "blue felt chess piece: a pointed-hat bishop with a pom-pom tip, button eyes and a smile",
+      "source": "games/chess/source/bishop.svg",
+      "svg": "games/chess/svg/blue-bishop.svg",
+      "png": "games/chess/png/blue-bishop.png"
+    },
+    {
+      "id": "games/chess/red-queen",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "queen",
+        "red",
+        "piece"
+      ],
+      "description": "red felt chess piece: a queen with a zigzag felt crown and pom-pom, button eyes and a smile",
+      "source": "games/chess/source/queen.svg",
+      "svg": "games/chess/svg/red-queen.svg",
+      "png": "games/chess/png/red-queen.png"
+    },
+    {
+      "id": "games/chess/blue-queen",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "queen",
+        "blue",
+        "piece"
+      ],
+      "description": "blue felt chess piece: a queen with a zigzag felt crown and pom-pom, button eyes and a smile",
+      "source": "games/chess/source/queen.svg",
+      "svg": "games/chess/svg/blue-queen.svg",
+      "png": "games/chess/png/blue-queen.png"
+    },
+    {
+      "id": "games/chess/red-king",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "king",
+        "red",
+        "piece"
+      ],
+      "description": "red felt chess piece: a king with a cardstock yellow cross crown, button eyes and a smile",
+      "source": "games/chess/source/king.svg",
+      "svg": "games/chess/svg/red-king.svg",
+      "png": "games/chess/png/red-king.png"
+    },
+    {
+      "id": "games/chess/blue-king",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "king",
+        "blue",
+        "piece"
+      ],
+      "description": "blue felt chess piece: a king with a cardstock yellow cross crown, button eyes and a smile",
+      "source": "games/chess/source/king.svg",
+      "svg": "games/chess/svg/blue-king.svg",
+      "png": "games/chess/png/blue-king.png"
+    },
+    {
+      "id": "games/chess/board",
+      "type": "game",
+      "tags": [
+        "chess",
+        "game",
+        "board"
+      ],
+      "description": "a hand-cut felt chess board: green felt squares on cotton, on a two-layer blue felt and cardstock frame with wobbly stitching",
+      "source": "games/chess/source/board.svg",
+      "svg": "games/chess/svg/board.svg",
+      "png": "games/chess/png/board.png"
     }
   ]
 }
