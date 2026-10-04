@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 476 90">
+  <g id="fill">
+    <path d="M0 0 L476 0 L476 62 L0 62 Z" data-color="accentCool" data-material="felt"/>
+    <path d="M0 52 L476 52 L476 66 C471.2 92 421.3 92 416.5 66 C411.7 92 361.8 92 357 66 C352.2 92 302.3 92 297.5 66 C292.7 92 242.8 92 238 66 C233.2 92 183.3 92 178.5 66 C173.7 92 123.8 92 119 66 C114.2 92 64.3 92 59.5 66 C54.7 92 4.8 92 0 66 Z" data-color="paper" data-material="cardstock"/>
+  </g>
+  <g id="line">
+    <path d="M16 30 L120 28" data-color="paper" data-w="0.9"/>
+    <path d="M240 40 L330 38" data-color="paper" data-w="0.9"/>
+  </g>
+</svg>

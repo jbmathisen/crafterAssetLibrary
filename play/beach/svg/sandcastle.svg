@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 170">
+  <g id="fill">
+    <path d="M18 150 L18 78 L18 67 L28 67 L28 78 L38 78 L38 67 L48 67 L48 78 L58 78 L58 67 L68 67 L68 78 L68 150 Z" fill="#E8C36A" stroke="#ccac5d" stroke-width="0.6"/>
+    <path d="M132 150 L132 78 L132 67 L142 67 L142 78 L152 78 L152 67 L162 67 L162 78 L172 78 L172 67 L182 67 L182 78 L182 150 Z" fill="#E8C36A" stroke="#ccac5d" stroke-width="0.6"/>
+    <path d="M64 150 L64 44 L64 32 L74.3 32 L74.3 44 L84.6 44 L84.6 32 L94.9 32 L94.9 44 L105.1 44 L105.1 32 L115.4 32 L115.4 44 L125.7 44 L125.7 32 L136 32 L136 44 L136 150 Z" fill="#E8C36A" stroke="#ccac5d" stroke-width="0.6"/>
+    <path d="M60 150 L60 108 L140 108 L140 150 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M36.5 104 C36.5 100.4 39.4 97.5 43 97.5 C46.6 97.5 49.5 100.4 49.5 104 C49.5 107.6 46.6 110.5 43 110.5 C39.4 110.5 36.5 107.6 36.5 104 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M150.5 104 C150.5 100.4 153.4 97.5 157 97.5 C160.6 97.5 163.5 100.4 163.5 104 C163.5 107.6 160.6 110.5 157 110.5 C153.4 110.5 150.5 107.6 150.5 104 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M93 74 C93 70.1 96.1 67 100 67 C103.9 67 107 70.1 107 74 C107 77.9 103.9 81 100 81 C96.1 81 93 77.9 93 74 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M75 90 C75 87.2 77.2 85 80 85 C82.8 85 85 87.2 85 90 C85 92.8 82.8 95 80 95 C77.2 95 75 92.8 75 90 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M115 90 C115 87.2 117.2 85 120 85 C122.8 85 125 87.2 125 90 C125 92.8 122.8 95 120 95 C117.2 95 115 92.8 115 90 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M88 150 L88 130 C88 118 112 118 112 130 L112 150 Z" fill="#8C7A68" stroke="#7b6b5c" stroke-width="0.6"/>
+    <path d="M100 12 L130 21 L100 30 Z" fill="#D9534A" stroke="#bf4941" stroke-width="0.6"/>
+  </g>
+  <g id="line">
+    <path d="M100 12 L100 34" fill="none" stroke="#4A3B30" stroke-width="1.56" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 122 L62 122" fill="none" stroke="#8C7A68" stroke-width="0.72" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 2.5"/>
+    <path d="M138 122 L176 122" fill="none" stroke="#8C7A68" stroke-width="0.72" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 2.5"/>
+    <path d="M68 100 L132 100" fill="none" stroke="#8C7A68" stroke-width="0.72" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 2.5"/>
+  </g>
+</svg>

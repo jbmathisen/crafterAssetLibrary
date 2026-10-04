@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 130">
+  <g id="fill">
+    <path d="M14 0 L216 0 C224 0 230 6 230 14 L230 116 C230 124 224 130 216 130 L14 130 C6 130 0 124 0 116 L0 14 C0 6 6 0 14 0 Z" data-color="washCool" data-material="felt"/>
+    <path d="M104 14 L214 14 C218 14 220 16 220 20 L220 110 C220 114 218 116 214 116 L104 116 C100 116 98 114 98 110 L98 20 C98 16 100 14 104 14 Z" data-color="paper" data-material="cardstock"/>
+    <path d="M50 24 C50 24 26 54 26 72 C26 86 37 96 50 96 C63 96 74 86 74 72 C74 54 50 24 50 24 Z" data-color="accentCool" data-material="felt"/>
+    <path d="M40 66 C40 62 44 58 47 58 C45 62 44 66 44 70 C44 74 41 72 40 70 Z" data-color="paper" data-material="cardstock"/>
+  </g>
+  <g id="line">
+    <path d="M10 8 L220 8 L220 122 L10 122 Z" data-color="paper" data-w="0.8" data-stitch="running"/>
+  </g>
+</svg>

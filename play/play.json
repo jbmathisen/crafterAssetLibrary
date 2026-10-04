@@ -199,6 +199,153 @@
         "game"
       ],
       "description": "the digit 9 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "rain-card",
+      "group": "rain",
+      "file": "rain/rain-card.svg",
+      "tags": [
+        "rain",
+        "street",
+        "puddle",
+        "scene",
+        "game",
+        "backdrop"
+      ],
+      "description": "a felt rainy street card: blue wall, two grey felt clouds, a stitched pavement and a cream kerb, washi tape corners; a lift-the-flap play card"
+    },
+    {
+      "id": "puddle",
+      "group": "rain",
+      "file": "rain/puddle.svg",
+      "tags": [
+        "rain",
+        "puddle",
+        "water",
+        "splash",
+        "game"
+      ],
+      "description": "a felt puddle: a dark-blue rim with a pale cellophane water surface, a light glint and a stitched ripple ring"
+    },
+    {
+      "id": "counter-tag-splash",
+      "group": "counter",
+      "file": "counter/counter-tag-splash.svg",
+      "tags": [
+        "counter",
+        "score",
+        "tag",
+        "number",
+        "game",
+        "rain",
+        "splash"
+      ],
+      "description": "a blue felt tag with a raindrop on the left and a cardstock window for felt digits"
+    },
+    {
+      "id": "counter-tag-wave",
+      "group": "counter",
+      "file": "counter/counter-tag-wave.svg",
+      "tags": [
+        "counter",
+        "score",
+        "tag",
+        "number",
+        "game",
+        "beach",
+        "wave"
+      ],
+      "description": "a blue felt tag with a foam-topped wave on the left and a cardstock window for felt digits"
+    },
+    {
+      "id": "beach-card",
+      "group": "beach",
+      "file": "beach/beach-card.svg",
+      "tags": [
+        "beach",
+        "sea",
+        "sand",
+        "scene",
+        "game",
+        "backdrop"
+      ],
+      "description": "a felt beach card: sky, deep-blue sea, a yellow felt beach with a wet-sand edge, washi tape corners; a lift-the-flap play card"
+    },
+    {
+      "id": "sandcastle",
+      "group": "beach",
+      "file": "beach/sandcastle.svg",
+      "tags": [
+        "beach",
+        "sandcastle",
+        "castle",
+        "sand",
+        "flag",
+        "shell"
+      ],
+      "description": "a felt sandcastle with a keep, two castellated towers, shell windows, an arched door and a red flag"
+    },
+    {
+      "id": "moat",
+      "group": "beach",
+      "file": "beach/moat.svg",
+      "tags": [
+        "beach",
+        "moat",
+        "trench",
+        "sand"
+      ],
+      "description": "a dry moat trench in felt, an oval ring with a stitched edge"
+    },
+    {
+      "id": "moat-water",
+      "group": "beach",
+      "file": "beach/moat-water.svg",
+      "tags": [
+        "beach",
+        "moat",
+        "water",
+        "sea"
+      ],
+      "description": "blue cellophane water that fills the moat, with a pale glint"
+    },
+    {
+      "id": "wave",
+      "group": "beach",
+      "file": "beach/wave.svg",
+      "tags": [
+        "beach",
+        "wave",
+        "sea",
+        "foam",
+        "water"
+      ],
+      "description": "a full-width felt wave: a deep-blue body with a scalloped cream foam edge"
+    },
+    {
+      "id": "rock",
+      "group": "beach",
+      "file": "beach/rock.svg",
+      "tags": [
+        "beach",
+        "rock",
+        "stone",
+        "hide"
+      ],
+      "description": "a chunky grey-brown felt rock with a lighter patch and a stitched base"
+    },
+    {
+      "id": "crab",
+      "group": "beach",
+      "file": "beach/crab.svg",
+      "tags": [
+        "beach",
+        "crab",
+        "animal",
+        "sea",
+        "red"
+      ],
+      "description": "a small red felt crab with raised claws, button eyes and stitched legs"
     }
   ]
 }
