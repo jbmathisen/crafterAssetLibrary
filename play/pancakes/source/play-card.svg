@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 476 400">
+  <g id="fill">
+    <path d="M14 4 C140 0 330 2 462 5 C474 120 474 270 470 392 C330 398 140 397 8 394 C2 280 4 130 14 4 Z" data-color="washCool" data-material="felt"/>
+    <path d="M8 252 C140 249 330 253 470 250 L470 392 C330 398 140 397 8 394 Z" data-color="washGreen" data-material="felt"/>
+    <path d="M6 246 C140 243 330 247 472 244 L472 262 C330 266 140 265 6 262 Z" data-color="pencil" data-material="cardstock"/>
+    <path d="M32 40 L168 40 L168 150 L32 150 Z" data-color="paper" data-material="cardstock"/>
+    <path d="M40 48 L160 48 L160 142 L40 142 Z" data-color="highlight" data-material="cellophane"/>
+    <path d="M26 30 L174 30 L174 52 C160 62 146 48 100 56 C60 48 40 62 26 52 Z" data-color="accentWarm" data-material="cotton" data-pattern="gingham" data-pattern-color="paper"/>
+    <path d="M-2 14 L58 -4 L66 18 L8 36 Z" data-color="highlight" data-material="cellophane"/>
+    <path d="M420 -2 L480 14 L470 36 L412 18 Z" data-color="accentWarm" data-material="cellophane"/>
+  </g>
+  <g id="line">
+    <path d="M30 372 C140 369 330 373 452 371" data-color="paper" data-w="0.9" data-stitch="running"/>
+    <path d="M100 48 L100 142 M40 95 L160 95" data-color="paper" data-w="1.1"/>
+  </g>
+</svg>

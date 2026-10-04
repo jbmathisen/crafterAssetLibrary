@@ -51,4 +51,7 @@ for (const role of fs.readdirSync(path.join(root, "characters"))) {
 }
 n += run(path.join(root, "items", "source"), () => roleColors);
 n += run(path.join(root, "scenes"), () => roleColors);
+if (fs.existsSync(path.join(root, "play"))) {
+  for (const g of fs.readdirSync(path.join(root, "play"), { withFileTypes: true }).filter((e) => e.isDirectory())) n += run(path.join(root, "play", g.name, "source"), () => roleColors);
+}
 console.log(`baked ${n} flat SVGs`);

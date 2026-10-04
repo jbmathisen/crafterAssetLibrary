@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 130">
+  <g id="fill">
+    <path d="M14 0 L216 0 C224 0 230 6 230 14 L230 116 C230 124 224 130 216 130 L14 130 C6 130 0 124 0 116 L0 14 C0 6 6 0 14 0 Z" fill="#9FB4C7" stroke="#8c9eaf" stroke-width="0.6"/>
+    <path d="M104 14 L214 14 C218 14 220 16 220 20 L220 110 C220 114 218 116 214 116 L104 116 C100 116 98 114 98 110 L98 20 C98 16 100 14 104 14 Z" fill="#F3EBDB" stroke="#d6cfc1" stroke-width="0.6"/>
+    <path d="M12 72 C12 65.4 29 60 50 60 C71 60 88 65.4 88 72 C88 78.6 71 84 50 84 C29 84 12 78.6 12 72 Z" fill="#E8C36A" stroke="#ccac5d" stroke-width="0.6"/>
+    <path d="M12 66 C12 59.4 29 54 50 54 C71 54 88 59.4 88 66 C88 72.6 71 78 50 78 C29 78 12 72.6 12 66 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+    <path d="M12 56 C12 49.4 29 44 50 44 C71 44 88 49.4 88 56 C88 62.6 71 68 50 68 C29 68 12 62.6 12 56 Z" fill="#E8C36A" stroke="#ccac5d" stroke-width="0.6"/>
+    <path d="M12 50 C12 43.4 29 38 50 38 C71 38 88 43.4 88 50 C88 56.6 71 62 50 62 C29 62 12 56.6 12 50 Z" fill="#F2C94C" stroke="#d5b143" stroke-width="0.6"/>
+  </g>
+  <g id="line">
+    <path d="M10 8 L220 8 L220 122 L10 122 Z" fill="none" stroke="#F3EBDB" stroke-width="0.96" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 2.5"/>
+  </g>
+</svg>

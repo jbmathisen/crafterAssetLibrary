@@ -22,6 +22,7 @@ cellophane: characters, everyday items, example scenes, materials and paper text
 | `characters/mascot` | a whale mascot: sit, umbrella, peek, sleep, wave | same |
 | `items/` | heart, star, rainbow, butterfly, flower, cloud, raindrop, sun, house, tree | same |
 | `scenes/` | three example collages (rainy street, grandma's kitchen, beach) + a spot item each | PNG · flat SVG · source SVG |
+| `play/` | pieces for one-key mini-games: a pancake pan, golden and raw pancakes, a kitchen play card, a counter tag and felt digits 0-9 | PNG · flat SVG · source SVG |
 | `materials/` | felt, cotton prints, cardstock, burlap, denim, cellophane, paper, stitches, button eyes, tag, banner, note | PNG |
 | `textures/` | cream cardstock paper, a multiply paper grain, felt and woven cloth | PNG |
 | `tokens/` | the palette, fonts and craft settings | JSON · CSS variables |

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "style": "felt-craft",
+  "colors": "palette roles, see tokens/felt-craft.json",
+  "items": [
+    {
+      "id": "pan",
+      "group": "pancakes",
+      "file": "pancakes/pan.svg",
+      "tags": [
+        "kitchen",
+        "cooking",
+        "pancake",
+        "pan",
+        "breakfast",
+        "grandma"
+      ],
+      "description": "a dark felt frying pan seen from a slant, with a stitched rim and a handle to the right"
+    },
+    {
+      "id": "pancake-golden",
+      "group": "pancakes",
+      "file": "pancakes/pancake-golden.svg",
+      "tags": [
+        "kitchen",
+        "pancake",
+        "breakfast",
+        "cooked",
+        "golden"
+      ],
+      "description": "a cooked golden felt pancake with a few darker spots, thick edge visible"
+    },
+    {
+      "id": "pancake-raw",
+      "group": "pancakes",
+      "file": "pancakes/pancake-raw.svg",
+      "tags": [
+        "kitchen",
+        "pancake",
+        "breakfast",
+        "raw",
+        "batter"
+      ],
+      "description": "the pale, bubbly raw side of a pancake, cream felt with small bubbles"
+    },
+    {
+      "id": "play-card",
+      "group": "pancakes",
+      "file": "pancakes/play-card.svg",
+      "tags": [
+        "kitchen",
+        "scene",
+        "game",
+        "backdrop",
+        "pancake"
+      ],
+      "description": "a felt kitchen card: blue wall, gingham-valanced window, green counter, washi tape corners; used as a lift-the-flap play card"
+    },
+    {
+      "id": "counter-tag",
+      "group": "counter",
+      "file": "counter/counter-tag.svg",
+      "tags": [
+        "counter",
+        "score",
+        "tag",
+        "number",
+        "game",
+        "pancake"
+      ],
+      "description": "a blue felt tag with a pancake stack on the left and a cardstock window on the right for felt digits"
+    },
+    {
+      "id": "digit-0",
+      "group": "counter",
+      "file": "counter/digit-0.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 0 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-1",
+      "group": "counter",
+      "file": "counter/digit-1.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 1 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-2",
+      "group": "counter",
+      "file": "counter/digit-2.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 2 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-3",
+      "group": "counter",
+      "file": "counter/digit-3.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 3 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-4",
+      "group": "counter",
+      "file": "counter/digit-4.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 4 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-5",
+      "group": "counter",
+      "file": "counter/digit-5.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 5 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-6",
+      "group": "counter",
+      "file": "counter/digit-6.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 6 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-7",
+      "group": "counter",
+      "file": "counter/digit-7.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 7 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-8",
+      "group": "counter",
+      "file": "counter/digit-8.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 8 cut from red felt, chunky rounded strokes"
+    },
+    {
+      "id": "digit-9",
+      "group": "counter",
+      "file": "counter/digit-9.svg",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 9 cut from red felt, chunky rounded strokes"
+    }
+  ]
+}
