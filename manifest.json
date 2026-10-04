@@ -759,402 +759,6 @@
       "png": "textures/woven-rose.png"
     },
     {
-      "id": "play/pancakes/pan",
-      "type": "play",
-      "tags": [
-        "kitchen",
-        "cooking",
-        "pancake",
-        "pan",
-        "breakfast",
-        "grandma"
-      ],
-      "description": "a dark felt frying pan seen from a slant, with a stitched rim and a handle to the right",
-      "source": "play/pancakes/source/pan.svg",
-      "svg": "play/pancakes/svg/pan.svg",
-      "png": "play/pancakes/png/pan.png"
-    },
-    {
-      "id": "play/pancakes/pancake-golden",
-      "type": "play",
-      "tags": [
-        "kitchen",
-        "pancake",
-        "breakfast",
-        "cooked",
-        "golden"
-      ],
-      "description": "a cooked golden felt pancake with a few darker spots, thick edge visible",
-      "source": "play/pancakes/source/pancake-golden.svg",
-      "svg": "play/pancakes/svg/pancake-golden.svg",
-      "png": "play/pancakes/png/pancake-golden.png"
-    },
-    {
-      "id": "play/pancakes/pancake-raw",
-      "type": "play",
-      "tags": [
-        "kitchen",
-        "pancake",
-        "breakfast",
-        "raw",
-        "batter"
-      ],
-      "description": "the pale, bubbly raw side of a pancake, cream felt with small bubbles",
-      "source": "play/pancakes/source/pancake-raw.svg",
-      "svg": "play/pancakes/svg/pancake-raw.svg",
-      "png": "play/pancakes/png/pancake-raw.png"
-    },
-    {
-      "id": "play/pancakes/play-card",
-      "type": "play",
-      "tags": [
-        "kitchen",
-        "scene",
-        "game",
-        "backdrop",
-        "pancake"
-      ],
-      "description": "a felt kitchen card: blue wall, gingham-valanced window, green counter, washi tape corners; used as a lift-the-flap play card",
-      "source": "play/pancakes/source/play-card.svg",
-      "svg": "play/pancakes/svg/play-card.svg",
-      "png": "play/pancakes/png/play-card.png"
-    },
-    {
-      "id": "play/counter/counter-tag",
-      "type": "play",
-      "tags": [
-        "counter",
-        "score",
-        "tag",
-        "number",
-        "game",
-        "pancake"
-      ],
-      "description": "a blue felt tag with a pancake stack on the left and a cardstock window on the right for felt digits",
-      "source": "play/counter/source/counter-tag.svg",
-      "svg": "play/counter/svg/counter-tag.svg",
-      "png": "play/counter/png/counter-tag.png"
-    },
-    {
-      "id": "play/counter/digit-0",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 0 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-0.svg",
-      "svg": "play/counter/svg/digit-0.svg",
-      "png": "play/counter/png/digit-0.png"
-    },
-    {
-      "id": "play/counter/digit-1",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 1 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-1.svg",
-      "svg": "play/counter/svg/digit-1.svg",
-      "png": "play/counter/png/digit-1.png"
-    },
-    {
-      "id": "play/counter/digit-2",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 2 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-2.svg",
-      "svg": "play/counter/svg/digit-2.svg",
-      "png": "play/counter/png/digit-2.png"
-    },
-    {
-      "id": "play/counter/digit-3",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 3 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-3.svg",
-      "svg": "play/counter/svg/digit-3.svg",
-      "png": "play/counter/png/digit-3.png"
-    },
-    {
-      "id": "play/counter/digit-4",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 4 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-4.svg",
-      "svg": "play/counter/svg/digit-4.svg",
-      "png": "play/counter/png/digit-4.png"
-    },
-    {
-      "id": "play/counter/digit-5",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 5 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-5.svg",
-      "svg": "play/counter/svg/digit-5.svg",
-      "png": "play/counter/png/digit-5.png"
-    },
-    {
-      "id": "play/counter/digit-6",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 6 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-6.svg",
-      "svg": "play/counter/svg/digit-6.svg",
-      "png": "play/counter/png/digit-6.png"
-    },
-    {
-      "id": "play/counter/digit-7",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 7 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-7.svg",
-      "svg": "play/counter/svg/digit-7.svg",
-      "png": "play/counter/png/digit-7.png"
-    },
-    {
-      "id": "play/counter/digit-8",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 8 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-8.svg",
-      "svg": "play/counter/svg/digit-8.svg",
-      "png": "play/counter/png/digit-8.png"
-    },
-    {
-      "id": "play/counter/digit-9",
-      "type": "play",
-      "tags": [
-        "number",
-        "digit",
-        "counter",
-        "score",
-        "game"
-      ],
-      "description": "the digit 9 cut from red felt, chunky rounded strokes",
-      "source": "play/counter/source/digit-9.svg",
-      "svg": "play/counter/svg/digit-9.svg",
-      "png": "play/counter/png/digit-9.png"
-    },
-    {
-      "id": "play/rain/rain-card",
-      "type": "play",
-      "tags": [
-        "rain",
-        "street",
-        "puddle",
-        "scene",
-        "game",
-        "backdrop"
-      ],
-      "description": "a felt rainy street card: blue wall, two grey felt clouds, a stitched pavement and a cream kerb, washi tape corners; a lift-the-flap play card",
-      "source": "play/rain/source/rain-card.svg",
-      "svg": "play/rain/svg/rain-card.svg",
-      "png": "play/rain/png/rain-card.png"
-    },
-    {
-      "id": "play/rain/puddle",
-      "type": "play",
-      "tags": [
-        "rain",
-        "puddle",
-        "water",
-        "splash",
-        "game"
-      ],
-      "description": "a felt puddle: a dark-blue rim with a pale cellophane water surface, a light glint and a stitched ripple ring",
-      "source": "play/rain/source/puddle.svg",
-      "svg": "play/rain/svg/puddle.svg",
-      "png": "play/rain/png/puddle.png"
-    },
-    {
-      "id": "play/counter/counter-tag-splash",
-      "type": "play",
-      "tags": [
-        "counter",
-        "score",
-        "tag",
-        "number",
-        "game",
-        "rain",
-        "splash"
-      ],
-      "description": "a blue felt tag with a raindrop on the left and a cardstock window for felt digits",
-      "source": "play/counter/source/counter-tag-splash.svg",
-      "svg": "play/counter/svg/counter-tag-splash.svg",
-      "png": "play/counter/png/counter-tag-splash.png"
-    },
-    {
-      "id": "play/counter/counter-tag-wave",
-      "type": "play",
-      "tags": [
-        "counter",
-        "score",
-        "tag",
-        "number",
-        "game",
-        "beach",
-        "wave"
-      ],
-      "description": "a blue felt tag with a foam-topped wave on the left and a cardstock window for felt digits",
-      "source": "play/counter/source/counter-tag-wave.svg",
-      "svg": "play/counter/svg/counter-tag-wave.svg",
-      "png": "play/counter/png/counter-tag-wave.png"
-    },
-    {
-      "id": "play/beach/beach-card",
-      "type": "play",
-      "tags": [
-        "beach",
-        "sea",
-        "sand",
-        "scene",
-        "game",
-        "backdrop"
-      ],
-      "description": "a felt beach card: sky, deep-blue sea, a yellow felt beach with a wet-sand edge, washi tape corners; a lift-the-flap play card",
-      "source": "play/beach/source/beach-card.svg",
-      "svg": "play/beach/svg/beach-card.svg",
-      "png": "play/beach/png/beach-card.png"
-    },
-    {
-      "id": "play/beach/sandcastle",
-      "type": "play",
-      "tags": [
-        "beach",
-        "sandcastle",
-        "castle",
-        "sand",
-        "flag",
-        "shell"
-      ],
-      "description": "a felt sandcastle with a keep, two castellated towers, shell windows, an arched door and a red flag",
-      "source": "play/beach/source/sandcastle.svg",
-      "svg": "play/beach/svg/sandcastle.svg",
-      "png": "play/beach/png/sandcastle.png"
-    },
-    {
-      "id": "play/beach/moat",
-      "type": "play",
-      "tags": [
-        "beach",
-        "moat",
-        "trench",
-        "sand"
-      ],
-      "description": "a dry moat trench in felt, an oval ring with a stitched edge",
-      "source": "play/beach/source/moat.svg",
-      "svg": "play/beach/svg/moat.svg",
-      "png": "play/beach/png/moat.png"
-    },
-    {
-      "id": "play/beach/moat-water",
-      "type": "play",
-      "tags": [
-        "beach",
-        "moat",
-        "water",
-        "sea"
-      ],
-      "description": "blue cellophane water that fills the moat, with a pale glint",
-      "source": "play/beach/source/moat-water.svg",
-      "svg": "play/beach/svg/moat-water.svg",
-      "png": "play/beach/png/moat-water.png"
-    },
-    {
-      "id": "play/beach/wave",
-      "type": "play",
-      "tags": [
-        "beach",
-        "wave",
-        "sea",
-        "foam",
-        "water"
-      ],
-      "description": "a full-width felt wave: a deep-blue body with a scalloped cream foam edge",
-      "source": "play/beach/source/wave.svg",
-      "svg": "play/beach/svg/wave.svg",
-      "png": "play/beach/png/wave.png"
-    },
-    {
-      "id": "play/beach/rock",
-      "type": "play",
-      "tags": [
-        "beach",
-        "rock",
-        "stone",
-        "hide"
-      ],
-      "description": "a chunky grey-brown felt rock with a lighter patch and a stitched base",
-      "source": "play/beach/source/rock.svg",
-      "svg": "play/beach/svg/rock.svg",
-      "png": "play/beach/png/rock.png"
-    },
-    {
-      "id": "play/beach/crab",
-      "type": "play",
-      "tags": [
-        "beach",
-        "crab",
-        "animal",
-        "sea",
-        "red"
-      ],
-      "description": "a small red felt crab with raised claws, button eyes and stitched legs",
-      "source": "play/beach/source/crab.svg",
-      "svg": "play/beach/svg/crab.svg",
-      "png": "play/beach/png/crab.png"
-    },
-    {
       "id": "games/chess/red-pawn",
       "type": "game",
       "tags": [
@@ -1346,6 +950,351 @@
       "source": "games/chess/source/board.svg",
       "svg": "games/chess/svg/board.svg",
       "png": "games/chess/png/board.png"
+    },
+    {
+      "id": "play/pancakes/pan",
+      "type": "play",
+      "tags": [
+        "kitchen",
+        "cooking",
+        "pancake",
+        "pan",
+        "breakfast",
+        "grandma"
+      ],
+      "description": "a dark felt frying pan seen from a slant, with a stitched rim and a handle to the right",
+      "source": "play/pancakes/source/pan.svg",
+      "svg": "play/pancakes/svg/pan.svg",
+      "png": "play/pancakes/png/pan.png"
+    },
+    {
+      "id": "play/pancakes/pancake-golden",
+      "type": "play",
+      "tags": [
+        "kitchen",
+        "pancake",
+        "breakfast",
+        "cooked",
+        "golden"
+      ],
+      "description": "a cooked golden felt pancake with a few darker spots, thick edge visible",
+      "source": "play/pancakes/source/pancake-golden.svg",
+      "svg": "play/pancakes/svg/pancake-golden.svg",
+      "png": "play/pancakes/png/pancake-golden.png"
+    },
+    {
+      "id": "play/pancakes/pancake-raw",
+      "type": "play",
+      "tags": [
+        "kitchen",
+        "pancake",
+        "breakfast",
+        "raw",
+        "batter"
+      ],
+      "description": "the pale, bubbly raw side of a pancake, cream felt with small bubbles",
+      "source": "play/pancakes/source/pancake-raw.svg",
+      "svg": "play/pancakes/svg/pancake-raw.svg",
+      "png": "play/pancakes/png/pancake-raw.png"
+    },
+    {
+      "id": "play/counter/counter-tag",
+      "type": "play",
+      "tags": [
+        "counter",
+        "score",
+        "tag",
+        "number",
+        "game",
+        "pancake"
+      ],
+      "description": "a blue felt tag with a pancake stack on the left and a cardstock window on the right for felt digits",
+      "source": "play/counter/source/counter-tag.svg",
+      "svg": "play/counter/svg/counter-tag.svg",
+      "png": "play/counter/png/counter-tag.png"
+    },
+    {
+      "id": "play/counter/digit-0",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 0 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-0.svg",
+      "svg": "play/counter/svg/digit-0.svg",
+      "png": "play/counter/png/digit-0.png"
+    },
+    {
+      "id": "play/counter/digit-1",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 1 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-1.svg",
+      "svg": "play/counter/svg/digit-1.svg",
+      "png": "play/counter/png/digit-1.png"
+    },
+    {
+      "id": "play/counter/digit-2",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 2 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-2.svg",
+      "svg": "play/counter/svg/digit-2.svg",
+      "png": "play/counter/png/digit-2.png"
+    },
+    {
+      "id": "play/counter/digit-3",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 3 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-3.svg",
+      "svg": "play/counter/svg/digit-3.svg",
+      "png": "play/counter/png/digit-3.png"
+    },
+    {
+      "id": "play/counter/digit-4",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 4 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-4.svg",
+      "svg": "play/counter/svg/digit-4.svg",
+      "png": "play/counter/png/digit-4.png"
+    },
+    {
+      "id": "play/counter/digit-5",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 5 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-5.svg",
+      "svg": "play/counter/svg/digit-5.svg",
+      "png": "play/counter/png/digit-5.png"
+    },
+    {
+      "id": "play/counter/digit-6",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 6 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-6.svg",
+      "svg": "play/counter/svg/digit-6.svg",
+      "png": "play/counter/png/digit-6.png"
+    },
+    {
+      "id": "play/counter/digit-7",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 7 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-7.svg",
+      "svg": "play/counter/svg/digit-7.svg",
+      "png": "play/counter/png/digit-7.png"
+    },
+    {
+      "id": "play/counter/digit-8",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 8 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-8.svg",
+      "svg": "play/counter/svg/digit-8.svg",
+      "png": "play/counter/png/digit-8.png"
+    },
+    {
+      "id": "play/counter/digit-9",
+      "type": "play",
+      "tags": [
+        "number",
+        "digit",
+        "counter",
+        "score",
+        "game"
+      ],
+      "description": "the digit 9 cut from red felt, chunky rounded strokes",
+      "source": "play/counter/source/digit-9.svg",
+      "svg": "play/counter/svg/digit-9.svg",
+      "png": "play/counter/png/digit-9.png"
+    },
+    {
+      "id": "play/counter/counter-tag-splash",
+      "type": "play",
+      "tags": [
+        "counter",
+        "score",
+        "tag",
+        "number",
+        "game",
+        "rain",
+        "splash"
+      ],
+      "description": "a blue felt tag with a raindrop on the left and a cardstock window for felt digits",
+      "source": "play/counter/source/counter-tag-splash.svg",
+      "svg": "play/counter/svg/counter-tag-splash.svg",
+      "png": "play/counter/png/counter-tag-splash.png"
+    },
+    {
+      "id": "play/counter/counter-tag-wave",
+      "type": "play",
+      "tags": [
+        "counter",
+        "score",
+        "tag",
+        "number",
+        "game",
+        "beach",
+        "wave"
+      ],
+      "description": "a blue felt tag with a foam-topped wave on the left and a cardstock window for felt digits",
+      "source": "play/counter/source/counter-tag-wave.svg",
+      "svg": "play/counter/svg/counter-tag-wave.svg",
+      "png": "play/counter/png/counter-tag-wave.png"
+    },
+    {
+      "id": "play/beach/wave-tongue",
+      "type": "play",
+      "tags": [
+        "beach",
+        "wave",
+        "sea",
+        "foam",
+        "water"
+      ],
+      "description": "a tongue of blue felt sea with a scalloped cream foam edge, cut by hand, that slides up the sand",
+      "source": "play/beach/source/wave-tongue.svg",
+      "svg": "play/beach/svg/wave-tongue.svg",
+      "png": "play/beach/png/wave-tongue.png"
+    },
+    {
+      "id": "play/props/moat/dry",
+      "type": "play",
+      "tags": [
+        "prop",
+        "moat",
+        "dry",
+        "game"
+      ],
+      "description": "the moat: a dry dug trench",
+      "source": "play/props/moat/source/dry.svg",
+      "svg": "play/props/moat/svg/dry.svg",
+      "png": "play/props/moat/png/dry.png"
+    },
+    {
+      "id": "play/props/moat/low",
+      "type": "play",
+      "tags": [
+        "prop",
+        "moat",
+        "low",
+        "game"
+      ],
+      "description": "the moat: a little water in the bottom",
+      "source": "play/props/moat/source/low.svg",
+      "svg": "play/props/moat/svg/low.svg",
+      "png": "play/props/moat/png/low.png"
+    },
+    {
+      "id": "play/props/moat/half",
+      "type": "play",
+      "tags": [
+        "prop",
+        "moat",
+        "half",
+        "game"
+      ],
+      "description": "the moat: half full of water",
+      "source": "play/props/moat/source/half.svg",
+      "svg": "play/props/moat/svg/half.svg",
+      "png": "play/props/moat/png/half.png"
+    },
+    {
+      "id": "play/props/moat/full",
+      "type": "play",
+      "tags": [
+        "prop",
+        "moat",
+        "full",
+        "game"
+      ],
+      "description": "the moat: full of water, with a glint",
+      "source": "play/props/moat/source/full.svg",
+      "svg": "play/props/moat/svg/full.svg",
+      "png": "play/props/moat/png/full.png"
+    },
+    {
+      "id": "play/props/pancake/golden",
+      "type": "play",
+      "tags": [
+        "prop",
+        "pancake",
+        "golden",
+        "game"
+      ],
+      "description": "the pancake: the cooked golden side up, face looking up",
+      "source": "play/props/pancake/source/golden.svg",
+      "svg": "play/props/pancake/svg/golden.svg",
+      "png": "play/props/pancake/png/golden.png"
+    },
+    {
+      "id": "play/props/pancake/raw",
+      "type": "play",
+      "tags": [
+        "prop",
+        "pancake",
+        "raw",
+        "game"
+      ],
+      "description": "the pancake: the pale raw side up",
+      "source": "play/props/pancake/source/raw.svg",
+      "svg": "play/props/pancake/svg/raw.svg",
+      "png": "play/props/pancake/png/raw.png"
     }
   ]
 }

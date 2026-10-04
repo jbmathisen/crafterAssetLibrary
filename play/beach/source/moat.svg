@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 50">
-  <g id="fill">
-    <path d="M4 25 C4 12.8 60.4 3 130 3 C199.6 3 256 12.8 256 25 C256 37.2 199.6 47 130 47 C60.4 47 4 37.2 4 25 Z" data-color="pencil" data-material="felt"/>
-    <path d="M16 24 C16 15.2 67 8 130 8 C193 8 244 15.2 244 24 C244 32.8 193 40 130 40 C67 40 16 32.8 16 24 Z" data-color="inkSoft" data-material="felt"/>
-  </g>
-  <g id="line">
-    <path d="M10 25 C10 14.5 63.7 6 130 6 C196.3 6 250 14.5 250 25 C250 35.5 196.3 44 130 44 C63.7 44 10 35.5 10 25 Z" data-color="paper" data-w="0.5" data-stitch="running"/>
-  </g>
-</svg>

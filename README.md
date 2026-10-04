@@ -21,8 +21,8 @@ cellophane: characters, everyday items, example scenes, materials and paper text
 | `characters/companion` | a pet companion: stand, jump, sit | same |
 | `characters/mascot` | a whale mascot: sit, umbrella, peek, sleep, wave | same |
 | `items/` | heart, star, rainbow, butterfly, flower, cloud, raindrop, sun, house, tree | same |
-| `scenes/` | three example collages (rainy street, grandma's kitchen, beach) + a spot item each | PNG · flat SVG · source SVG |
-| `play/` | pieces for one-key mini-games: pancakes (pan, golden and raw pancake, kitchen card), rain (wet-street card, puddle), beach (card, sandcastle, moat, wave, rock, crab), felt counter tags and digits 0-9 | PNG · flat SVG · source SVG |
+| `scenes/` | three example collages (a rainy street with three puddles, grandma's kitchen, a beach with a sandcastle), drawn so a game can play in them + a spot item each | PNG · flat SVG · source SVG |
+| `play/` | pieces for one-key mini-games, all hand-cut: counter tags and felt digits 0-9, a beach wave tongue, a pancake pan and pancakes, and play props (a golden/raw pancake, a moat with four water levels) | PNG · flat SVG · source SVG |
 | `materials/` | felt, cotton prints, cardstock, burlap, denim, cellophane, paper, stitches, button eyes, tag, banner, note | PNG |
 | `textures/` | cream cardstock paper, a multiply paper grain, felt and woven cloth | PNG |
 | `tokens/` | the palette, fonts and craft settings | JSON · CSS variables |

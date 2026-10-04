@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 50">
-  <g id="fill">
-    <path d="M16 24 C16 15.2 67 8 130 8 C193 8 244 15.2 244 24 C244 32.8 193 40 130 40 C67 40 16 32.8 16 24 Z" data-color="accentCool" data-material="cellophane"/>
-    <path d="M72 20 C72 18.3 84.5 17 100 17 C115.5 17 128 18.3 128 20 C128 21.7 115.5 23 100 23 C84.5 23 72 21.7 72 20 Z" data-color="paper" data-material="cardstock"/>
-  </g>
-  <g id="line">
-
-  </g>
-</svg>
